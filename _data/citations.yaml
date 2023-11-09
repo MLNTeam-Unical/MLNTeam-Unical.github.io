@@ -1,0 +1,181 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1016/j.dib.2023.109749
+  title: 'Unraveling the NFT economy: A comprehensive collection of Non-Fungible Token
+    transactions and metadata'
+  authors:
+  - Davide Costa
+  - Lucio La Cava
+  - Andrea Tagarelli
+  publisher: Data in Brief
+  date: '2023-11-01'
+  link: https://doi.org/gs35cq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2305.19056
+  title: 'Get Out of the Nest! Drivers of Social Influence in the #TwitterMigration
+    to Mastodon'
+  authors:
+  - Lucio La Cava
+  - Luca Maria Aiello
+  - Andrea Tagarelli
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gs35cw
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3539618.3591821
+  title: 'SONAR: Web-based Tool for Multimodal Exploration of Non-Fungible Token Inspiration
+    Networks'
+  authors:
+  - Lucio La Cava
+  - Davide Costa
+  - Andrea Tagarelli
+  publisher: Proceedings of the 46th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2023-07-18'
+  link: https://doi.org/gs35cr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3543507.3583520
+  title: 'Show me your NFT and I tell you how it will perform: Multimodal representation
+    learning for NFT selling price prediction'
+  authors:
+  - Davide Costa
+  - Lucio La Cava
+  - Andrea Tagarelli
+  publisher: Proceedings of the ACM Web Conference 2023
+  date: '2023-04-30'
+  link: https://doi.org/gs35cs
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2303.17031
+  title: 'Visually Wired NFTs: Exploring the Role of Inspiration in Non-Fungible Tokens'
+  authors:
+  - Lucio La Cava
+  - Davide Costa
+  - Andrea Tagarelli
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gs35cx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.patrec.2023.02.016
+  title: 'Transformer-based language models for mental health issues: A survey'
+  authors:
+  - Candida M. Greco
+  - Andrea Simeri
+  - Andrea Tagarelli
+  - Ester Zumpano
+  publisher: Pattern Recognition Letters
+  date: '2023-03-01'
+  link: https://doi.org/gs35cz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s41109-022-00504-9
+  title: 'Co-MLHAN: contrastive learning for multilayer heterogeneous attributed networks'
+  authors:
+  - Liliana Martirano
+  - Lorenzo Zangari
+  - Andrea Tagarelli
+  publisher: Applied Network Science
+  date: '2022-09-20'
+  link: https://doi.org/gs35c2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-031-18840-4_22
+  title: When Correlation Clustering Meets Fairness Constraints
+  authors:
+  - Francesco Gullo
+  - Lucio La Cava
+  - Domenico Mandaglio
+  - Andrea Tagarelli
+  publisher: Discovery Science
+  date: '2022-01-01'
+  link: https://doi.org/gs35cv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3477495.3531668
+  title: LawNet-Viz
+  authors:
+  - Lucio La Cava
+  - Andrea Simeri
+  - Andrea Tagarelli
+  publisher: Proceedings of the 45th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2022-07-06'
+  link: https://doi.org/gs35ct
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.osnem.2022.100220
+  title: 'Information consumption and boundary spanning in Decentralized Online Social
+    Networks: The case of Mastodon users'
+  authors:
+  - Lucio La Cava
+  - Sergio Greco
+  - Andrea Tagarelli
+  publisher: Online Social Networks and Media
+  date: '2022-07-01'
+  link: https://doi.org/gr6wmx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-031-08473-7_45
+  title: "A Comparison of\_Transformer-Based Language Models on\_NLP Benchmarks"
+  authors:
+  - Candida Maria Greco
+  - Andrea Tagarelli
+  - Ester Zumpano
+  publisher: Natural Language Processing and Information Systems
+  date: '2022-01-01'
+  link: https://doi.org/gs35c3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1609/icwsm.v16i1.19391
+  title: Network Analysis of the Information Consumption-Production Dichotomy in Mastodon
+    User Behaviors
+  authors:
+  - Lucio La Cava
+  - Sergio Greco
+  - Andrea Tagarelli
+  publisher: Proceedings of the International AAAI Conference on Web and Social Media
+  date: '2022-05-31'
+  link: https://doi.org/gr6wmw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s41109-021-00420-4
+  title: Graph convolutional and attention models for entity classification in multilayer
+    networks
+  authors:
+  - Lorenzo Zangari
+  - Roberto Interdonato
+  - "Antonio Cali\xF3"
+  - Andrea Tagarelli
+  publisher: Applied Network Science
+  date: '2021-11-08'
+  link: https://doi.org/gs35c4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s41109-021-00392-5
+  title: Understanding the growth of the Fediverse through the lens of Mastodon
+  authors:
+  - Lucio La Cava
+  - Sergio Greco
+  - Andrea Tagarelli
+  publisher: Applied Network Science
+  date: '2021-09-01'
+  link: https://doi.org/grc3p4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10506-021-09301-8
+  title: Unsupervised law article mining based on deep pre-trained language representation
+    models with application to the Italian civil code
+  authors:
+  - Andrea Tagarelli
+  - Andrea Simeri
+  publisher: Artificial Intelligence and Law
+  date: '2021-09-15'
+  link: https://doi.org/gs35c5
+  plugin: sources.py
+  file: sources.yaml
