@@ -7,8 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research endeavors span a diverse array of topics, primarily focusing on the intersection of **Machine Learning**, **Natural Language Processing**, **Graph Mining** and **Network Science**. Our research activities aim to provide insights into emergent phenomena and develop applications with both theoretical and practical significance in various domains, possibily of high-societal impact, such as *law* and *healthcare*.  
+
+Key areas of investigation include:
+
+- **Advanced Clustering Problems**: Correlation Clustering, Fairness Clustering, Polarization, Clustering Ensemble
+- **Graph Mining and Learning**:  Node/Subgraph Classification, Link Prediction, Community Detection, Graph Simplification, Multilayer Networks, Heterogeneous Networks, Knowledge Graphs
+- **Social Media**: (Web3 and Decentralized) Online Social Networks, Influence Maximization, Information Diffusion, User Behavior Analysis, Centrality
+- **NLP and Information Retrieval**: Text Representation Learning, Semantic Search, Document Clustering and Classification, Topic Modeling, Multi-view/Multilingual Document Mining
+- **Sequential/Temporal** Data Similarity and Representation Learning
+- **Multimodal** Similarity Search, Vision-Audio-Language-Graph Representation Learning 
+
 
 {% include section.html %}
 
