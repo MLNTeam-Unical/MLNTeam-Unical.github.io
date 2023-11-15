@@ -20,8 +20,8 @@ As we venture into possibly uncharted territories, our collective goal is not on
 ## News
 
 {% capture content %} 
-- *6 Nov 2023* - [Lucio](/members/lucio-lacava.html) presented a [tutorial at ASONAM 2023](/2023/10/07/tutorial-ASONAM.html)
-- *1 Nov 2023* - New data released from Davide, Lucio and Andrea
+- *6 Nov 2023* - [Lucio](/members/lucio-lacava.html) presented a [tutorial at ASONAM 2023](2023/11/06/lucio-asonam2023.html)
+- *1 Nov 2023* - New [data](http://localhost:4000/2023/11/01/nft-dataset.html) released from Davide, Lucio and Andrea
 - *4 Oct 2023* - Survey by Candida and Andrea on [Transformer-based Language Models for AI in Law](/2023/10/04/surveyARTI.html)
 
 {%

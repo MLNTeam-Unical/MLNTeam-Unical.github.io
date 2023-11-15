@@ -1,6 +1,6 @@
 ---
 name: Lucio La Cava
-image: images/fototessera_Lucio.png
+image: images/lucio.png
 role: phd
 group: alum
 links:
