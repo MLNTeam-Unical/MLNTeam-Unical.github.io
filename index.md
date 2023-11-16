@@ -9,7 +9,7 @@ We invite you to join us on a journey at the forefront of cutting-edge AI-based 
 In our pursuit of knowledge, we aim to explore avenues with the potential for high societal impact, particularly in domains as crucial as law and healthcare. Our endeavors are driven by a commitment to not only unravel the mysteries within these fields but to leverage our findings for practical applications that resonate in the real world.
 
 Our team thrives on the belief that diversity in research questions leads to richer, more comprehensive answers. 
- We delve into the intricacies of semantic search and generative AI in diverse data domains --- documents, images, sequential and audio data --- decipher the dynamics of Web3, NFT, and decentralized online social networks, navigate the complex landscapes of multilayer heterogeneous networks and knowledge graphs, deal with advanced optimization problems to improve our understanding of challenging scenarios dealing with such aspects as fairness, diversity, polarization, and many more. 
+ We delve into the intricacies of semantic search and generative AI in diverse data domains --- documents, images, sequential and audio data --- decipher the dynamics of Web3, NFTs, and decentralized online social networks, navigate the complex landscapes of multilayer heterogeneous networks and knowledge graphs, deal with advanced optimization problems to improve our understanding of challenging scenarios dealing with such aspects as fairness, diversity, polarization, and many more. 
  
 As we venture into possibly uncharted territories, our collective goal is not only to expand the boundaries of what is known but also to foster innovation that transcends academia and finds meaningful applications in the world at large. Join us in this exciting expedition where theory meets practice, and together, let's chart new frontiers in the ever-evolving landscape of research.
 
@@ -20,9 +20,9 @@ As we venture into possibly uncharted territories, our collective goal is not on
 ## News
 
 {% capture content %} 
-- *6 Nov 2023* - [Lucio](/members/lucio-lacava.html) presented a [tutorial at ASONAM 2023](2023/11/06/lucio-asonam2023.html)
-- *1 Nov 2023* - New [data](http://localhost:4000/2023/11/01/nft-dataset.html) released from Davide, Lucio and Andrea
-- *4 Oct 2023* - Survey by Candida and Andrea on [Transformer-based Language Models for AI in Law](/2023/10/04/surveyARTI.html)
+- *6 Nov 2023* - Lucio presented a [tutorial at ASONAM 2023](2023/11/06/lucio-asonam2023.html)
+- *1 Nov 2023* - New [data](http://localhost:4000/2023/11/01/nft-dataset.html) released by Davide, Lucio and Andrea T.
+- *15 Sept 2023* - Survey by Candida and Andrea T. on [Transformer-based Language Models for AI in Law](2023/09/15/tagarelli-surveyARTI.html)
 
 {%
   include button.html
