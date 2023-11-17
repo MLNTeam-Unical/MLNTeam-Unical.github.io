@@ -52,4 +52,13 @@ You might also be interested in knowing about [JurisAI s.r.l.](https://www.juris
 
 {% include section.html dark=true %}
 
-
+<!--
+{% include tags.html tags="publication, resource, website" %}
+{% include search-info.html %}
+{% include section.html %}
+## Featured
+{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include section.html %}
+## More
+{% include list.html component="card" data="projects" filters="group: " style="small" %}
+-->

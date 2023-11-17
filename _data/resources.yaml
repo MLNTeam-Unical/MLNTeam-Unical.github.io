@@ -1,22 +1,22 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: The NFT-70M Dataset
+  group: data
+  image: images/nft-hf.jpg
+  link: https://huggingface.co/datasets/MLNTeam-Unical/NFT-70M_transactions
+  description: The NFT-70M_transactions dataset is the largest and most up-to-date collection of Non-Fungible Tokens (NFT) transactions between 2021 and 2023 sourced from OpenSea, the leading trading platform in the Web3 ecosystem.
   tags:
-    - resource
+    - NFT
+    - images
+    - text
+    - Web3
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Instagram @Hypertext-2014  
+  group: data
+  image: images/ht14.jpg
+  link: mailto:andrea.tagarelli@unical.it
+  description: This is a widely recognized Instagram dump ([README](README_ht2014.txt)) that was built up here in 2014, by Andrea T. and Roberto Interdonato, and analyzed in a [paper](https://dl.acm.org/doi/10.1145/2631775.2631808) presented at the 2014 ACM Hypertext and Social Media conference. [Email us](mailto:andrea.tagarelli@unical.it) to get a copy! 
   tags:
-    - resource
+    - Instagram
+    - social-media
 
 - title: Cool Tutorial
   subtitle: a subtitle
