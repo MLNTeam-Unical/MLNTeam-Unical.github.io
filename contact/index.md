@@ -7,7 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Contact us via email/phone, or  visit us at *v. P. Bucci, cubo 44Z, Dipartimento DIMES, Università della Calabria, 87036 Arcavata di Rende (CS), Italy*.
+The MLN Team is open to scientific and professional collaborations with academic institutions as well as companies, government agencies and other organizations.
+
+_Eager to get in touch with the MLN Team?_  
+
+Don't hesitate! Contact us via email/phone, or  visit us at *v. P. Bucci, cubo 44Z, Dipartimento DIMES, Università della Calabria, 87036 Arcavata di Rende (CS), Italy*.
 
 {%
   include button.html
@@ -35,6 +39,7 @@ Contact us via email/phone, or  visit us at *v. P. Bucci, cubo 44Z, Dipartimento
 {%
   include figure.html
   image="./../images/logo_orig.png"
+  width="30%"
   caption="The MLN Team"
 %}
 

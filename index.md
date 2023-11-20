@@ -21,7 +21,8 @@ As we venture into possibly uncharted territories, our collective goal is not on
 
 {% capture content %} 
 - *6 Nov 2023* - Lucio presented a [tutorial at ASONAM 2023](2023/11/06/lucio-asonam2023.html)
-- *1 Nov 2023* - New [data](http://localhost:4000/2023/11/01/nft-dataset.html) released by Davide, Lucio and Andrea T.
+- *21 Oct 2023* - Kick-off of the [PRIN 2022 Project "AWESOME - Analysis framework for WEb3 SOcial MEdia"](2023/10/21/prin-web3.html) (Andrea T. Co-PI), funded by Italian Ministry of University and Research.
+- *3 Oct 2023* - New [dataset on NFT transactions and metadata](2023/11/01/nft-dataset.html) released by Davide, Lucio and Andrea T.
 - *15 Sept 2023* - Survey by Candida and Andrea T. on [Transformer-based Language Models for AI in Law](2023/09/15/tagarelli-surveyARTI.html)
 
 {%

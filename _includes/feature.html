@@ -13,6 +13,10 @@
   >
     <img
       src="{{ include.image | relative_url }}"
+      style="
+        width: {{ include.width | default: "auto" }};
+        max-height: {{ include.height | default: "unset" }};
+      "
       loading="lazy"
       alt="{{ include.title | default: "feature image" }}"
       {% include fallback.html %}
