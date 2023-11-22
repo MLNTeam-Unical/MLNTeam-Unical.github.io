@@ -13,6 +13,8 @@ tags: research, dataset, NFT, Web3
 
 👨🏻‍💻 🎬 Designed, built, curated - and made available for research and informational purposes - by [Davide](/members/davide-costa.html), [Lucio](/members/lucio-lacava.html), and [Andrea T.](/members/andrea-tagarelli.html)
 
+👉🏻 See our paper published with Data In Brief journal:  [Unraveling the NFT economy: A comprehensive collection of Non-Fungible Token transactions and metadata](https://doi.org/10.1016/j.dib.2023.109749)
+
 👉🏻 Check it out on [LinkedIn](https://www.linkedin.com/posts/andrea-tagarelli_mlnteam-unicalnft-70mtransactions-datasets-activity-7114911796406161410-B9vm?utm_source=share&utm_medium=member_desktop)
 {% endcapture%}
 {% include feature.html image="" link="" title="" text=text %}
