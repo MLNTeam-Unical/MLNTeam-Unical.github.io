@@ -9,6 +9,27 @@
     - text
     - Web3
 
+
+
+- title: EMCD - A Software Package for Ensemble-based Community Detection in Multilayer Networks
+  group: tools
+  image: images/emcd.png
+  link: resources/EMCD.zip
+  description: EMCD is a software system for finding a community structure in a multilayer network by using an ensemble-based approach. [Download here.](EMCD.zip)
+  tags:
+    - consensus community detection
+    - multilayer networks
+
+- title: Drivers of social influence in the Twitter migration to Mastodon @SciRep-2023
+  group: data
+  image: images/photo.jpg
+  link: https://figshare.com/s/f053e8cea190162a2f1a
+  description: Our dataset of the social network of about 75,000 migrated users that was used to study the 2021 TwitterMigration phenomenon --- a rapid and extensive migration of Twitter users to the decentralized social platform Mastodon.
+  tags:
+    - Mastodon
+    - Twitter migration
+    - Fediverse
+
 - title: Instagram @Hypertext-2014  
   group: data
   image: images/ht14.jpg
@@ -17,25 +38,6 @@
   tags:
     - Instagram
     - social-media
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
 
 - title: Cool Web Server
   subtitle: a subtitle
