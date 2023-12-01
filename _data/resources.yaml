@@ -9,7 +9,27 @@
     - text
     - Web3
 
+- title: SONAR - A Web-based tool for multi-modal exploration of Non-Fungible Token Inspiration Networks
+  group: tools
+  image: images/sonar.png
+  link: https://dl.acm.org/doi/10.1145/3539618.3591821
+  description: SONAR is conceived to support both creators and traders in the Web3 through an interactive visualization of inspiration driven connections between NFTs, at both individual level and collection level. [Demo video here.](https://youtu.be/kj1UOIXE9no)
+  tags:
+    - NFT
+    - images
+    - text
+    - Web3
 
+
+- title: LawNet-Viz - A Web-based tool for the modeling, analysis and visualization of Law Reference Networks
+  group: tools
+  image: images/lawnetviz.png
+  link: https://dl.acm.org/doi/10.1145/3477495.3531668
+  description: LawNetViz, a web-based tool designed to support legal research tasks and help legal professionals as well as laymen visually exploring the article connections built upon the explicit law references detected in the article contents. [Demo video here.](https://youtu.be/yQGe8Q12wQU)
+  tags:
+    - language models
+    - law
+    - citation networks
 
 - title: EMCD - A Software Package for Ensemble-based Community Detection in Multilayer Networks
   group: tools
@@ -18,6 +38,15 @@
   description: EMCD is a software system for finding a community structure in a multilayer network by using an ensemble-based approach. [Download here.](EMCD.zip)
   tags:
     - consensus community detection
+    - multilayer networks
+
+- title: ML-LCD - A Software Package for Local Community Detection in Multilayer Networks
+  group: tools
+  image: images/ml-lcd.png
+  link: resources/ML-LCD.zip
+  description: ML-LCD is a software system for finding a community that is specific to a query node and relies on limited information about the network structure. [Download here.](ML-LCD.zip)
+  tags:
+    - local community detection
     - multilayer networks
 
 - title: Drivers of social influence in the Twitter migration to Mastodon @SciRep-2023
@@ -39,11 +68,3 @@
     - Instagram
     - social-media
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
