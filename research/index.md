@@ -23,7 +23,7 @@ Key areas of investigation include:
 
 ## Latest out
 
-{% include citation.html lookup="Unraveling the NFT economy: A comprehensive collection of Non-Fungible Token transactions and metadata" style="rich" %}
+{% include citation.html lookup="Bringing order into the realm of Transformer-based language models for artificial intelligence and law" style="rich" %}
 
 {% include section.html %}
 

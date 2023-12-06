@@ -18,7 +18,6 @@ nav:
 ## Datasets
 {% include list.html component="card" data="resources" filters="group: data " style="small" %}
  
-## Talk presentations 
  
  
  
