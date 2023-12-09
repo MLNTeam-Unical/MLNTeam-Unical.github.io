@@ -23,7 +23,7 @@ Key areas of investigation include:
 
 ## Latest out
 
-{% include citation.html lookup="Bringing order into the realm of Transformer-based language models for artificial intelligence and law" style="rich" %}
+{% include citation.html lookup="Drivers of social influence in the Twitter migration to Mastodon" style="rich" %}
 
 {% include section.html %}
 

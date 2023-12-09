@@ -21,53 +21,98 @@ Members include computer science and engineering professors, researchers, PhD st
 
 
 {% include section.html %}
-## Alumni
+## 🎓 Alumni
 
-A selected list (2023-202) of M.Sc. Thesis works by students in Computer Engineering @DIMES, supervised by Andrea T. and other MLN Team members:
+A selected list of recent M.Sc. Thesis works by students in Computer Engineering @DIMES, supervised by Andrea T. and other MLN Team members:
 
-- *User Recommendation in Decentralized Online Social Networks* (supervisors A. Tagarelli, L. La Cava) by S. Bria. A.A. 2022/23. 
+- *User Recommendation in Decentralized Online Social Networks* \
+  S. Bria, A.Y. 2022-2023 \
+  Supervisors: A. Tagarelli, L. La Cava 
     
-- *Personal ChatBot: Intelligenza Artificiale Generativa per la Comprensione della Personalità Individuale* (supervisors A. Tagarelli, L. La Cava) by S. Lopez. A.A. 2022/23. 
+- *Personal ChatBot: Intelligenza Artificiale Generativa per la Comprensione della Personalità Individuale* \
+  S. Lopez, A.Y 2022-2023\
+  Supervisors: A. Tagarelli, L. La Cava
     
-- *Musica generata dall'intelligenza artificiale: analisi degli stati emotivi e dell'attività bioelettrica cerebrale* (supervisor A. Tagarelli) by M. Costabile. A.A. 2021/22. 
+- *Musica generata dall'intelligenza artificiale: analisi degli stati emotivi e dell'attività bioelettrica cerebrale* \
+  M. Costabile, A.Y. 2021-2022\
+  Supervisor: A. Tagarelli
 
-- *Computer Vision e Arte Digitale:  Ricerca semantica di immagini NFT basata su modelli neurali visuali e generazione di descrizioni testuali* (supervisor A. Tagarelli) by D. Azzato. A.A. 2021/22. 
+- *Computer Vision e Arte Digitale: Ricerca semantica di immagini NFT basata su modelli neurali visuali e generazione di descrizioni testuali* \
+  D. Azzato, A.Y. 2021-2022\
+  Supervisors: A. Tagarelli, L. La Cava 
         
-- *Modelli di linguaggio neurali pre-addestrati per la classificazione e la generazione di testi di social media content creator* (supervisors A. Tagarelli, L. La Cava) by M. Granato. A.A. 2021/22. 
+- *Modelli di linguaggio neurali pre-addestrati per la classificazione e la generazione di testi di social media content creator* \
+  M. Granato, A.Y. 2021-2022\
+  Supervisors: A. Tagarelli, L. La Cava
     
-- *Topic modeling e affective computing nei linguaggi dei diversi ruoli di social media content creator* (supervisors A. Tagarelli, L. La Cava) by M. Arci. A.A. 2021/22. 
+- *Topic modeling e affective computing nei linguaggi dei diversi ruoli di social media content creator* \
+  M. Arci, A.Y. 2021-2022\
+  Supervisors: A. Tagarelli, L. La Cava
 
-- *Transformer-based Political Language Modeling for the Italian landscape through the lens of Twitter and YouTube* (supervisor A. Tagarelli) by G. Tripodi. A.A. 2020/21. 
+- *Transformer-based Political Language Modeling for the Italian landscape through the lens of Twitter and YouTube* \
+  G. Tripodi, A.Y. 2020-2021\
+  Supervisor: A. Tagarelli
     
-- *Face Mask Detection: Definizione e Sviluppo di un?architettura di Deep Learning basata su YOLO* (supervisor A. Tagarelli) by C. Grazioso. A.A. 2020/21. 
+- *Face Mask Detection: Definizione e Sviluppo di un?architettura di Deep Learning basata su YOLO* \
+  C. Grazioso, A.Y. 2020-2021\
+  Supervisor: A. Tagarelli 
    
-- *Architetture di Deep Learning basate su modelli Audio Transformer per la predizione di anomalie e patologie respiratorie* (supervisor A. Tagarelli) by A. Gagliostro. A.A. 2020/21. 
+- *Architetture di Deep Learning basate su modelli Audio Transformer per la predizione di anomalie e patologie respiratorie* \
+  A. Gagliostro, A.Y. 2020-2021\
+  Supervisor: A. Tagarelli 
     
-- *Studio, definizione e sviluppo di modelli per Zero-Shot Voice Cloning and Translation* (supervisor A. Tagarelli) by D. Costa. A.A. 2020/21. 
+- *Studio, definizione e sviluppo di modelli per Zero-Shot Voice Cloning and Translation* \
+  D. Costa, A.Y. 2020-2021\
+  Supervisor: A. Tagarelli
     
-- *Modellazione ed analisi di immagini satellitari Sentinel-5P* (supervisors A. Tagarelli, G. Martirano) by M. Di Mauro. A.A. 2020/21. 
+- *Modellazione ed analisi di immagini satellitari Sentinel-5P* \
+  M. Di Mauro, A.Y. 2020-2021\
+  Supervisors: A. Tagarelli, G. Martirano
 
-
-- *Estrazione di feature non supervisionata e modelli Transformer per la predizione di anomalie e malattie respiratorie* (supervisor A. Tagarelli) by D. Montesanto. A.A. 2019/20. 
+- *Estrazione di feature non supervisionata e modelli Transformer per la predizione di anomalie e malattie respiratorie* \
+  D. Montesanto, A.Y. 2019-2020\
+  Supervisor: A. Tagarelli
      
-- *Modularity-driven Ensemble-based Multilayer Community Detection with Node Embeddings* (supervisor A. Tagarelli) by L. Rovito. A.A. 2019/20. 
+- *Modularity-driven Ensemble-based Multilayer Community Detection with Node Embeddings* \
+  L. Rovito, A.Y. 2019-2020\
+  Supervisor: A. Tagarelli  
     
-- *Confronto ed Analisi di Modelli di Deep Natural Language Understanding per task di Classification e Summarization* (supervisor A. Tagarelli) by C. M. Greco. A.A. 2019/20. 
+- *Confronto ed Analisi di Modelli di Deep Natural Language Understanding per task di Classification e Summarization* \
+  C. M. Greco, A.Y. 2019-2020\
+  Supervisor: A. Tagarelli
     
-- *Metodi di Generative Adversarial Networks per Grafi* (supervisor A. Tagarelli) by P. Mazza. A.A. 2019/20. 
+- *Metodi di Generative Adversarial Networks per Grafi* \
+  P. Mazza, A.Y. 2019-2020\
+  Supervisor: A. Tagarelli
     
-- *Estensione dei modelli di Graph Neural Networks per Grafi Multilayer mediante il supporto di Deep Graph Library* (supervisors A. Tagarelli, R. Interdonato) by L. Zangari. A.A. 2019/20. 
+- *Estensione dei modelli di Graph Neural Networks per Grafi Multilayer mediante il supporto di Deep Graph Library* \
+  L. Zangari, A.Y. 2019-2020\
+  Supervisors: A. Tagarelli, R. Interdonato  
     
-- *Segment-based Document Clustering con Word Embeddings e Topic Modeling* (supervisor A. Tagarelli) by G. N. Saragò. A.A. 2019/20. 
+- *Segment-based Document Clustering con Word Embeddings e Topic Modeling* \
+  G. N. Saragò, A.Y. 2019-2020\
+  Supervisor: A. Tagarelli
 
-- *Decentralizzazione di social network in federazione di istanze: modelli esplorativi e generativi di profilazione in Mastodon* (supervisor A. Tagarelli) by L. La Cava. A.A. 2019/20. 
+- *Decentralizzazione di social network in federazione di istanze: modelli esplorativi e generativi di profilazione in Mastodon* \
+  L. La Cava, A.Y. 2019-2020\
+  Supervisor: A. Tagarelli
  
-- *Analisi strutturale e comportamentale degli utenti nella social network decentralizzata Mastodon* (supervisor A. Tagarelli) by L. E. Ruffo. A.A. 2019/20.
+- *Analisi strutturale e comportamentale degli utenti nella social network decentralizzata Mastodon* \
+  L. E. Ruffo, A.Y. 2019-2020\
+  Supervisor: A. Tagarelli
  
-- *Diversified Generalized Influence Maximization: massimizzazione di funzioni non submodulari per influence maximization con incentivi e diversificazione del seed set* (supervisor A. Tagarelli) by L. Zaccaro. A.A. 2019/20.
+- *Diversified Generalized Influence Maximization: massimizzazione di funzioni non submodulari per influence maximization con incentivi e diversificazione del seed set* \
+  L. Zaccaro, A.Y. 2019-2020\
+  Supervisor: A. Tagarelli
      
-- *Diversity-aware Budgeted Competitive Profit Maximization: effetti della diversificazione del seed set in influence maximization competitivo e non submodulare* (supervisor A. Tagarelli) by C. Brancaccio. A.A. 2019/20. 
+- *Diversity-aware Budgeted Competitive Profit Maximization: effetti della diversificazione del seed set in influence maximization competitivo e non submodulare* \
+  C. Brancaccio, A.Y. 2019-2020\
+  Supervisor: A. Tagarelli 
 
-- *BERT based Deep Learning architecture for NLP Tasks* (supervisor A. Tagarelli) by A. Simeri. A.A. 2019/20.
+- *BERT based Deep Learning architecture for NLP Tasks* \
+  A. Simeri, A.Y. 2019-2020\
+  Supervisor: A. Tagarelli
 
-- *Natural Language Generation: from Recurrent Neural Networks to Transformers* (supervisor A. Tagarelli) by M. Gabriele. A.A. 2019/20.
+- *Natural Language Generation: from Recurrent Neural Networks to Transformers* \
+  M. Gabriele, A.Y. 2019-2020\
+  Supervisor: A. Tagarelli

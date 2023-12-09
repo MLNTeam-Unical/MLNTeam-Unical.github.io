@@ -11,7 +11,7 @@
 
 - title: SONAR - A Web-based tool for multi-modal exploration of Non-Fungible Token Inspiration Networks
   group: tools
-  image: images/sonar.png
+  image: images/Gui_3.png
   link: https://dl.acm.org/doi/10.1145/3539618.3591821
   description: SONAR is conceived to support both creators and traders in the Web3 through an interactive visualization of inspiration driven connections between NFTs, at both individual level and collection level. [Demo video here.](https://youtu.be/kj1UOIXE9no)
   tags:
@@ -51,12 +51,21 @@
 
 - title: Drivers of social influence in the Twitter migration to Mastodon @SciRep-2023
   group: data
-  image: images/photo.jpg
+  image: images/migration_graph_pruning01_intersection_white.png
   link: https://figshare.com/s/f053e8cea190162a2f1a
   description: Our dataset of the social network of about 75,000 migrated users that was used to study the 2021 TwitterMigration phenomenon --- a rapid and extensive migration of Twitter users to the decentralized social platform Mastodon.
   tags:
     - Mastodon
     - Twitter migration
+    - Fediverse
+
+- title: Mastodon users and instances networks edgelist
+  group: data
+  image: images/plot_new_Mastodon.png
+  link: mailto:andrea.tagarelli@unical.it
+  description: Our dataset contains the Mastodon users and instances networks as of late 2020. It was used in several studies (APNS2021, OSNEM2022, ICWSM2022) aimed at analyzing the growth of the Fediverse and Mastodon.
+  tags:
+    - Mastodon
     - Fediverse
 
 - title: Instagram @Hypertext-2014  

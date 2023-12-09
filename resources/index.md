@@ -16,7 +16,7 @@ nav:
 {% include list.html component="card" data="resources" filters="group: tools" style="small" %}
 
 ## Datasets
-{% include list.html component="card" data="resources" filters="group: data " style="small" %}
+{% include list.html component="card" data="resources" filters="group: data" style="small" %}
  
  
  
