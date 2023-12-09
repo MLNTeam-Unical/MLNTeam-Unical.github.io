@@ -44,14 +44,13 @@
   - Lucio La Cava
   - Andrea Tagarelli
   publisher: Data in Brief
-  date: '2023-11-01'
+  date: '2023-12-01'
   link: https://doi.org/gs35cq
   image: ./../images/nftdataset.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2305.19056
-  title: 'Get Out of the Nest! Drivers of Social Influence in the #TwitterMigration
-    to Mastodon'
+  title: Drivers of social influence in the Twitter migration to Mastodon
   authors:
   - Lucio La Cava
   - Luca Maria Aiello
