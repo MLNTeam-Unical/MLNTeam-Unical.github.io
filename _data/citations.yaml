@@ -9,7 +9,7 @@
   publisher: Scientific Reports
   date: '2023-12-07'
   link: https://doi.org/gs8c7x
-  image: ./../images/photo2.jpg
+  image: ./../images/migration.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10506-023-09374-7
@@ -21,7 +21,19 @@
   publisher: Artificial Intelligence and Law
   date: '2023-11-20'
   link: https://doi.org/gs75zb
-  image: ./../images/photo2.jpg
+  image: ./../images/AIlaw.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/S10618-023-00937-5
+  title: A combinatorial multi-armed bandit approach to correlation clustering
+  authors:
+  - F. Gullo
+  - D. Mandaglio
+  - A. Tagarelli
+  publisher: Data Mining and Knowledge Discovery
+  date: '2023-06-29'
+  link: https://doi.org/gs8dmg
+  image: ./../images/cc4.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.dib.2023.109749
@@ -32,13 +44,14 @@
   - Lucio La Cava
   - Andrea Tagarelli
   publisher: Data in Brief
-  date: '2023-12-01'
+  date: '2023-11-01'
   link: https://doi.org/gs35cq
-  image: ./../images/photo2.jpg
+  image: ./../images/nftdataset.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2305.19056
-  title: Drivers of social influence in the Twitter migration to Mastodon
+  title: 'Get Out of the Nest! Drivers of Social Influence in the #TwitterMigration
+    to Mastodon'
   authors:
   - Lucio La Cava
   - Luca Maria Aiello
@@ -46,7 +59,21 @@
   publisher: arXiv
   date: '2023-01-01'
   link: https://doi.org/gs35cw
-  image: ./../images/photo2.jpg
+  image: ./../images/migration.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICT-DM58371.2023.10286927
+  title: 'Evolution of the Social Debate on Climate Crisis: Insights from Twitter
+    During the Conferences of the Parties'
+  authors:
+  - Liliana Martirano
+  - Lucio La Cava
+  - Andrea Tagarelli
+  publisher: 2023 International Conference on Information and Communication Technologies
+    for Disaster Management (ICT-DM)
+  date: '2023-09-13'
+  link: https://doi.org/gs8dmh
+  image: ./../images/climate.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3539618.3591821
@@ -60,7 +87,7 @@
     and Development in Information Retrieval
   date: '2023-07-18'
   link: https://doi.org/gs35cr
-  image: ./../images/photo2.jpg
+  image: ./../images/sonar.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3543507.3583520
@@ -73,7 +100,7 @@
   publisher: Proceedings of the ACM Web Conference 2023
   date: '2023-04-30'
   link: https://doi.org/gs35cs
-  image: ./../images/photo2.jpg
+  image: ./../images/merlin.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2303.17031
@@ -85,7 +112,7 @@
   publisher: arXiv
   date: '2023-01-01'
   link: https://doi.org/gs35cx
-  image: ./../images/photo2.jpg
+  image: ./../images/visualinspirationnetw.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.patrec.2023.02.016
@@ -98,7 +125,7 @@
   publisher: Pattern Recognition Letters
   date: '2023-03-01'
   link: https://doi.org/gs35cz
-  image: ./../images/photo2.jpg
+  image: ./../images/health.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s41109-022-00504-9
@@ -110,7 +137,20 @@
   publisher: Applied Network Science
   date: '2022-09-20'
   link: https://doi.org/gs35c2
-  image: ./../images/photo2.jpg
+  image: ./../images/default.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICPR56361.2022.9956039
+  title: Learning to Active Learn by Gradient Variation based on Instance Importance
+  authors:
+  - Sergio Flesca
+  - Domenico Mandaglio
+  - Francesco Scala
+  - Andrea Tagarelli
+  publisher: 2022 26th International Conference on Pattern Recognition (ICPR)
+  date: '2022-08-21'
+  link: https://doi.org/gs8dpg
+  image: ./../images/default.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-031-18840-4_22
@@ -123,7 +163,7 @@
   publisher: Discovery Science
   date: '2022-01-01'
   link: https://doi.org/gs35cv
-  image: ./../images/photo2.jpg
+  image: ./../images/default.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3477495.3531668
@@ -136,7 +176,7 @@
     and Development in Information Retrieval
   date: '2022-07-06'
   link: https://doi.org/gs35ct
-  image: ./../images/photo2.jpg
+  image: ./../images/default.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.osnem.2022.100220
@@ -149,7 +189,7 @@
   publisher: Online Social Networks and Media
   date: '2022-07-01'
   link: https://doi.org/gr6wmx
-  image: ./../images/photo2.jpg
+  image: ./../images/default.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-031-08473-7_45
@@ -161,7 +201,7 @@
   publisher: Natural Language Processing and Information Systems
   date: '2022-01-01'
   link: https://doi.org/gs35c3
-  image: ./../images/photo2.jpg
+  image: ./../images/default.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1609/icwsm.v16i1.19391
@@ -174,7 +214,21 @@
   publisher: Proceedings of the International AAAI Conference on Web and Social Media
   date: '2022-05-31'
   link: https://doi.org/gr6wmw
-  image: ./../images/photo2.jpg
+  image: ./../images/default.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3444688
+  title: Community Detection in Multiplex Networks
+  authors:
+  - Matteo Magnani
+  - Obaida Hanteer
+  - Roberto Interdonato
+  - Luca Rossi
+  - Andrea Tagarelli
+  publisher: ACM Computing Surveys
+  date: '2021-05-08'
+  link: https://doi.org/gjxkqf
+  image: ./../images/default.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s41109-021-00420-4
@@ -188,7 +242,7 @@
   publisher: Applied Network Science
   date: '2021-11-08'
   link: https://doi.org/gs35c4
-  image: ./../images/photo2.jpg
+  image: ./../images/default.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s41109-021-00392-5
@@ -200,7 +254,7 @@
   publisher: Applied Network Science
   date: '2021-09-01'
   link: https://doi.org/grc3p4
-  image: ./../images/photo2.jpg
+  image: ./../images/default.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10506-021-09301-8
@@ -212,6 +266,29 @@
   publisher: Artificial Intelligence and Law
   date: '2021-09-15'
   link: https://doi.org/gs35c5
-  image: ./../images/photo2.jpg
+  image: ./../images/default.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/J.INS.2020.08.093
+  title: Attribute based diversification of seeds for targeted influence maximization
+  authors:
+  - "Antonio Cali\xF2"
+  - Andrea Tagarelli
+  publisher: Information Sciences
+  date: '2021-02-01'
+  link: https://doi.org/gkr9bq
+  image: ./../images/default.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-030-86520-7_31
+  title: Correlation Clustering with Global Weight Bounds
+  authors:
+  - Domenico Mandaglio
+  - Andrea Tagarelli
+  - Francesco Gullo
+  publisher: Machine Learning and Knowledge Discovery in Databases. Research Track
+  date: '2021-01-01'
+  link: https://doi.org/gs8dvt
+  image: ./../images/default.jpg
   plugin: sources.py
   file: sources.yaml

@@ -1,68 +1,92 @@
 
 # SciRep 2023
 - id: doi:10.1038/s41598-023-48200-7
-  image: ./../images/photo2.jpg
+  image: ./../images/migration.jpg
 
 # ARTI 2023
 - id: doi:10.1007/s10506-023-09374-7
-  image: ./../images/photo2.jpg
+  image: ./../images/AIlaw.jpg
+
+# DAMI 2023
+- id: doi:10.1007/S10618-023-00937-5
+  image: ./../images/cc4.jpg
 
 # DiB 2023
 - id: doi:10.1016/j.dib.2023.109749
-  image: ./../images/photo2.jpg
+  image: ./../images/nftdataset.jpg
 
 # Under review 2023
 - id: doi:10.48550/arXiv.2305.19056
-  image: ./../images/photo2.jpg
+  image: ./../images/migration.jpg
+
+# ICT-DM 2023
+- id: doi:10.1109/ICT-DM58371.2023.10286927
+  image: ./../images/climate.jpg
 
 # SIGIR 2023
 - id: doi:10.1145/3539618.3591821
-  image: ./../images/photo2.jpg
+  image: ./../images/sonar.jpg
 
 # WWW 2023
 - id: doi:10.1145/3543507.3583520
-  image: ./../images/photo2.jpg
+  image: ./../images/merlin.jpg
 
 # Under review 2023
 - id: doi:10.48550/arXiv.2303.17031
-  image: ./../images/photo2.jpg
+  image: ./../images/visualinspirationnetw.jpg
 
 # Pattern Recognition Letters 2023
 - id: doi:10.1016/j.patrec.2023.02.016
-  image: ./../images/photo2.jpg
+  image: ./../images/health.jpg
 
 # APNS 2022
 - id: doi:10.1007/s41109-022-00504-9
-  image: ./../images/photo2.jpg
+  image: ./../images/default.jpg
+
+# ICPR 2022
+- id: doi:10.1109/ICPR56361.2022.9956039
+  image: ./../images/default.jpg
 
 # DS 2022
 - id: doi:10.1007/978-3-031-18840-4_22
-  image: ./../images/photo2.jpg
+  image: ./../images/default.jpg
 
 # SIGIR 2022
 - id: doi:10.1145/3477495.3531668
-  image: ./../images/photo2.jpg
+  image: ./../images/default.jpg
 
 # OSNEM 2022
 - id: doi:10.1016/j.osnem.2022.100220
-  image: ./../images/photo2.jpg
+  image: ./../images/default.jpg
 
 # NLDB 2022
 - id: doi:10.1007/978-3-031-08473-7_45
-  image: ./../images/photo2.jpg
+  image: ./../images/default.jpg
 
 # ICWSM 2022
 - id: doi:10.1609/icwsm.v16i1.19391
-  image: ./../images/photo2.jpg
+  image: ./../images/default.jpg
+
+# CSUV 2022
+- id: doi:10.1145/3444688
+  image: ./../images/default.jpg
 
 # APNS 2021_
 - id: doi:10.1007/s41109-021-00420-4
-  image: ./../images/photo2.jpg
+  image: ./../images/default.jpg
 
 # APNS 2021
 - id: doi:10.1007/s41109-021-00392-5
-  image: ./../images/photo2.jpg
+  image: ./../images/default.jpg
 
 # AI and Law 2021
 - id: doi:10.1007/s10506-021-09301-8
-  image: ./../images/photo2.jpg
+  image: ./../images/default.jpg
+
+# InfSci 2021
+- id: doi:10.1016/J.INS.2020.08.093
+  image: ./../images/default.jpg
+
+# ECMLPKDD 2021
+- id: doi:10.1007/978-3-030-86520-7_31
+  image: ./../images/default.jpg

@@ -59,7 +59,7 @@ Our research endeavors span a diverse array of topics, primarily focusing on the
 
 {%
   include feature.html
-  image="images/viz_full.png"
+  image="images/sonar.png"
   link="research"
   title="Our Research"
   text=text
@@ -83,7 +83,7 @@ Here at the MLN Team, technology transfer comes with the primary intention of pu
 
 {%
   include feature.html
-  image="images/Gui_3.png"
+  image="images/projects.jpg"
   link="projects"
   title="Our Projects"
   flip=true

@@ -31,6 +31,15 @@
     - law
     - citation networks
 
+- title: ML-GNN - Graph convolutional and attention models for Entity Classification in Multilayer Networks
+  group: tools
+  image: images/mlgnn.png
+  link: https://github.com/andreatagarelli/ML_GNN
+  description: A GNN framework for representation learning and semi-supervised classification in multilayer networks with attributed entities,  arbitrary number of layers and intra-/inter-layer connections between nodes. [Download here.](https://github.com/andreatagarelli/ML_GNN)
+  tags:
+    - graph representation learning
+    - multilayer networks
+
 - title: EMCD - A Software Package for Ensemble-based Community Detection in Multilayer Networks
   group: tools
   image: images/emcd.png
