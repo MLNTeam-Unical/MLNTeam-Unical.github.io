@@ -1,6 +1,6 @@
 ---
 title: Flying abroad for my visiting period! 🇩🇰
-author: lucio-lacava
+author: lacava-lucio
 tags: visiting, research, collaborations
 ---
 

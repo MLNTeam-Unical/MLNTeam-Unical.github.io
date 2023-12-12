@@ -1,6 +1,6 @@
 ---
 title: Off to Austin for presenting our work at TheWebConf2023! 🇺🇸
-author: lucio-lacava
+author: lacava-lucio
 tags: research, web3, nft
 ---
 

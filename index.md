@@ -12,6 +12,7 @@ Our team thrives on the belief that diversity in research questions leads to ric
  We delve into the intricacies of semantic search and generative AI in diverse data domains --- documents, images, sequential and audio data --- decipher the dynamics of Web3, NFTs, and decentralized online social networks, navigate the complex landscapes of multilayer heterogeneous networks and knowledge graphs, deal with advanced optimization problems to improve our understanding of challenging scenarios dealing with such aspects as fairness, diversity, polarization, and many more. 
  
 As we venture into possibly uncharted territories, our collective goal is not only to expand the boundaries of what is known but also to foster innovation that transcends academia and finds meaningful applications in the world at large. Join us in this exciting expedition where theory meets practice, and together, let's chart new frontiers in the ever-evolving landscape of research.
+ 
 
 
 {% include section.html %}
@@ -108,7 +109,7 @@ The MLN Team is based in the [DIMES Department](https://dimes.unical.it/), Unive
 
 {%
   include feature.html
-  image="images/team.png"
+  image="images/logo_orig.png"
   link="team"
   title="Our Team"
   text=text

@@ -1,6 +1,6 @@
 ---
 title: The NFT-70M dataset is here! 🔥
-author: lucio-lacava
+author: lacava-lucio
 tags: research, dataset, NFT, Web3
 ---
 
