@@ -11,7 +11,7 @@ Our research endeavors span a diverse array of topics, primarily focusing on the
 
 Key areas of investigation include:
 
-- **Advanced Clustering Problems**: Correlation Clustering, Fairness Clustering, Polarization, Clustering Ensemble
+- **Advanced Clustering Problems**: Correlation Clustering, Fairness in Clustering, Polarization, Clustering Ensemble
 - **Graph Mining and Learning**:  Node/Subgraph Classification, Link Prediction, Community Detection, Graph Simplification, Multilayer Networks, Heterogeneous Networks, Knowledge Graphs
 - **Social Media**: (Web3 and Decentralized) Online Social Networks, Influence Maximization, Information Diffusion, User Behavior Analysis, Centrality
 - **NLP and Information Retrieval**: Text Representation Learning, Semantic Search, Document Clustering and Classification, Topic Modeling, Multi-view/Multilingual Document Mining
