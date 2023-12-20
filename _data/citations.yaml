@@ -136,7 +136,7 @@
   publisher: Applied Network Science
   date: '2022-09-20'
   link: https://doi.org/gs35c2
-  image: ./../images/default.jpg
+  image: ./../images/comlhan.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICPR56361.2022.9956039
@@ -149,7 +149,7 @@
   publisher: 2022 26th International Conference on Pattern Recognition (ICPR)
   date: '2022-08-21'
   link: https://doi.org/gs8dpg
-  image: ./../images/default.jpg
+  image: ./../images/lal.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-031-18840-4_22
@@ -162,7 +162,7 @@
   publisher: Discovery Science
   date: '2022-01-01'
   link: https://doi.org/gs35cv
-  image: ./../images/default.jpg
+  image: ./../images/fairness.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3477495.3531668
@@ -175,7 +175,7 @@
     and Development in Information Retrieval
   date: '2022-07-06'
   link: https://doi.org/gs35ct
-  image: ./../images/default.jpg
+  image: ./../images/lawnetviz.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.osnem.2022.100220
@@ -188,7 +188,7 @@
   publisher: Online Social Networks and Media
   date: '2022-07-01'
   link: https://doi.org/gr6wmx
-  image: ./../images/default.jpg
+  image: ./../images/osnem22.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-031-08473-7_45
@@ -200,7 +200,7 @@
   publisher: Natural Language Processing and Information Systems
   date: '2022-01-01'
   link: https://doi.org/gs35c3
-  image: ./../images/default.jpg
+  image: ./../images/nldb22.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1609/icwsm.v16i1.19391
@@ -213,7 +213,7 @@
   publisher: Proceedings of the International AAAI Conference on Web and Social Media
   date: '2022-05-31'
   link: https://doi.org/gr6wmw
-  image: ./../images/default.jpg
+  image: ./../images/icwsm22.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3444688
@@ -227,7 +227,7 @@
   publisher: ACM Computing Surveys
   date: '2021-05-08'
   link: https://doi.org/gjxkqf
-  image: ./../images/default.jpg
+  image: ./../images/mlnets6.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s41109-021-00420-4
@@ -241,7 +241,7 @@
   publisher: Applied Network Science
   date: '2021-11-08'
   link: https://doi.org/gs35c4
-  image: ./../images/default.jpg
+  image: ./../images/attention.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s41109-021-00392-5
@@ -253,7 +253,7 @@
   publisher: Applied Network Science
   date: '2021-09-01'
   link: https://doi.org/grc3p4
-  image: ./../images/default.jpg
+  image: ./../images/mastodon5.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10506-021-09301-8
@@ -265,7 +265,7 @@
   publisher: Artificial Intelligence and Law
   date: '2021-09-15'
   link: https://doi.org/gs35c5
-  image: ./../images/default.jpg
+  image: ./../images/lamberta.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/J.INS.2020.08.093
@@ -276,7 +276,7 @@
   publisher: Information Sciences
   date: '2021-02-01'
   link: https://doi.org/gkr9bq
-  image: ./../images/default.jpg
+  image: ./../images/mlnets.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-030-86520-7_31
@@ -288,6 +288,6 @@
   publisher: Machine Learning and Knowledge Discovery in Databases. Research Track
   date: '2021-01-01'
   link: https://doi.org/gs8dvt
-  image: ./../images/default.jpg
+  image: ./../images/CCwGWB.jpg
   plugin: sources.py
   file: sources.yaml

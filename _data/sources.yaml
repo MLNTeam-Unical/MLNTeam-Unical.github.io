@@ -41,52 +41,52 @@
 
 # APNS 2022
 - id: doi:10.1007/s41109-022-00504-9
-  image: ./../images/default.jpg
+  image: ./../images/comlhan.jpg
 
 # ICPR 2022
 - id: doi:10.1109/ICPR56361.2022.9956039
-  image: ./../images/default.jpg
+  image: ./../images/lal.jpg
 
 # DS 2022
 - id: doi:10.1007/978-3-031-18840-4_22
-  image: ./../images/default.jpg
+  image: ./../images/fairness.jpg
 
 # SIGIR 2022
 - id: doi:10.1145/3477495.3531668
-  image: ./../images/default.jpg
+  image: ./../images/lawnetviz.jpg
 
 # OSNEM 2022
 - id: doi:10.1016/j.osnem.2022.100220
-  image: ./../images/default.jpg
+  image: ./../images/osnem22.jpg
 
 # NLDB 2022
 - id: doi:10.1007/978-3-031-08473-7_45
-  image: ./../images/default.jpg
+  image: ./../images/nldb22.jpg
 
 # ICWSM 2022
 - id: doi:10.1609/icwsm.v16i1.19391
-  image: ./../images/default.jpg
+  image: ./../images/icwsm22.jpg
 
 # CSUV 2022
 - id: doi:10.1145/3444688
-  image: ./../images/default.jpg
+  image: ./../images/mlnets6.jpg
 
 # APNS 2021_
 - id: doi:10.1007/s41109-021-00420-4
-  image: ./../images/default.jpg
+  image: ./../images/attention.jpg
 
 # APNS 2021
 - id: doi:10.1007/s41109-021-00392-5
-  image: ./../images/default.jpg
+  image: ./../images/mastodon5.jpg
 
 # AI and Law 2021
 - id: doi:10.1007/s10506-021-09301-8
-  image: ./../images/default.jpg
+  image: ./../images/lamberta.jpg
 
 # InfSci 2021
 - id: doi:10.1016/J.INS.2020.08.093
-  image: ./../images/default.jpg
+  image: ./../images/mlnets.jpg
 
 # ECMLPKDD 2021
 - id: doi:10.1007/978-3-030-86520-7_31
-  image: ./../images/default.jpg
+  image: ./../images/CCwGWB.jpg
