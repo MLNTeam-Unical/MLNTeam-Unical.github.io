@@ -21,7 +21,11 @@ Key areas of investigation include:
 
 
 
- 
+{% include section.html %}
+
+## Latest out
+
+{% include citation.html lookup="Drivers of social influence in the Twitter migration to Mastodon" style="rich" %}
 
 {% include section.html %}
 

@@ -1,5 +1,31 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: ' '
+  title: Topic Similarities in Rights and Duties across European Constitutions using
+    Transformer-based Language Models
+  authors:
+  - Candida M. Greco
+  - Andrea Tagarelli
+  publisher: ACM Hypertext-2023 Workshop on 'Legal Information Retrieval meets Artificial
+    Intelligence Workshop' (LIRAI)
+  date: '2023-12-01'
+  link: https://ceur-ws.org/Vol-3594/paper4.pdf
+  image: ./../images/liraiEU2.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: '  '
+  title: GDPR Article Retrieval based on Domain-adaptive and Task-adaptive Legal Pre-trained
+    Language Models
+  authors:
+  - Andrea Simeri
+  - Andrea Tagarelli
+  publisher: ACM Hypertext-2023 Workshop on 'Legal Information Retrieval meets Artificial
+    Intelligence Workshop' (LIRAI)
+  date: '2023-12-01'
+  link: https://ceur-ws.org/Vol-3594/paper5.pdf
+  image: ./../images/liraiGDPR.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41598-023-48200-7
   title: Drivers of social influence in the Twitter migration to Mastodon
   authors:
@@ -166,7 +192,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3477495.3531668
-  title: LawNet-Viz
+  title: LawNet-Viz - A Web-based System to Visually Explore Networks of Law Article
+    References
   authors:
   - Lucio La Cava
   - Andrea Simeri
