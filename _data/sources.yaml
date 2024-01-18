@@ -18,7 +18,13 @@
   link: https://ceur-ws.org/Vol-3594/paper5.pdf
   image: ./../images/liraiGDPR.jpg
 
-# SciRep 2023
+
+
+# arXiv 2024-1
+- id: doi:10.48550/arXiv.2401.07115
+  image: ./../images/mbti.jpg 
+
+  # SciRep 2023
 - id: doi:10.1038/s41598-023-48200-7
   image: ./../images/migration.jpg
 

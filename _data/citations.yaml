@@ -26,6 +26,19 @@
   image: ./../images/liraiGDPR.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.48550/arXiv.2401.07115
+  title: Open Models, Closed Minds? On Agents Capabilities in Mimicking Human Personalities
+    through Open Large Language Models
+  authors:
+  - Lucio La Cava
+  - Davide Costa
+  - Andrea Tagarelli
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/gtd3x7
+  image: ./../images/mbti.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41598-023-48200-7
   title: Drivers of social influence in the Twitter migration to Mastodon
   authors:
