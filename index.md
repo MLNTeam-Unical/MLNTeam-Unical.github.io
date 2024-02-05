@@ -3,7 +3,7 @@
 
 ## The MLN Team Manifesto
 
-Welcome to the website of the MLN team, a collective force of innovation and intellect built up and led by Andrea Tagarelli, powered by  skilled and passionate computer-science researchers and Ph.D. students. 
+Welcome to the website of the *Machines, Languages, and Networks (MLN) team*, a collective force of innovation and intellect built up and led by Andrea Tagarelli, powered by  skilled and passionate computer-science researchers and Ph.D. students. 
 We invite you to join us on a journey at the forefront of cutting-edge AI-based research, where the realms of Machine Learning, Natural Language Processing (NLP), Graph Mining, and Network Science converge to unravel the complexities of emergent phenomena and pave the way for transformative applications across diverse domains.
 
 We aim to explore avenues with the potential for high societal impact, also in crucial domains such as law and healthcare. 
