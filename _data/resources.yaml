@@ -20,6 +20,35 @@
     - text
     - Web3
 
+- title: ML-Link - Link Prediction on Multilayer Networks through Learning of Within-Layer and Across-Layer Node-Pair Structural Features and Node Embedding Similarity
+  group: tools
+  image: images/mllink.png
+  link: https://github.com/lorenzozangari/ML-Link
+  description: A graph learning framework for link prediction on (attributed) multilayer networks, which originally combines (i) pairwise similarities of multilayer node embeddings learned by a GNN, and (ii) node-pair structural features learned from   within-/across-layer link information based on overlapping multilayer neighborhoods. [Download here.](https://github.com/lorenzozangari/ML-Link)
+  tags:
+    - graph representation learning
+    - multilayer networks
+    - link prediction
+
+- title: Co-MLHAN -  Contrastive Learning for Multilayer Heterogeneous Attributed Networks
+  group: tools
+  image: images/comlhan.png
+  link: https://github.com/lorenzozangari/Co-MLHAN
+  description: A self-supervised graph representation learning approach based on cross-view contrastive learning conceived for multilayer heterogeneous attributed networks. [Download here.](https://github.com/lorenzozangari/Co-MLHAN)
+  tags:
+    - graph representation learning
+    - multilayer networks
+    - heterogeneous networks
+
+- title: ML-GNN - Graph convolutional and attention models for Entity Classification in Multilayer Networks
+  group: tools
+  image: images/mlgnn.png
+  link: https://github.com/andreatagarelli/ML_GNN
+  description: A GNN framework for representation learning and semi-supervised classification in multilayer networks with attributed entities,  arbitrary number of layers and intra-/inter-layer connections between nodes. [Download here.](https://github.com/andreatagarelli/ML_GNN)
+  tags:
+    - graph representation learning
+    - multilayer networks
+
 
 - title: LawNet-Viz - A Web-based tool for the modeling, analysis and visualization of Law Reference Networks
   group: tools
@@ -31,14 +60,9 @@
     - law
     - citation networks
 
-- title: ML-GNN - Graph convolutional and attention models for Entity Classification in Multilayer Networks
-  group: tools
-  image: images/mlgnn.png
-  link: https://github.com/andreatagarelli/ML_GNN
-  description: A GNN framework for representation learning and semi-supervised classification in multilayer networks with attributed entities,  arbitrary number of layers and intra-/inter-layer connections between nodes. [Download here.](https://github.com/andreatagarelli/ML_GNN)
-  tags:
-    - graph representation learning
-    - multilayer networks
+
+
+
 
 - title: EMCD - A Software Package for Ensemble-based Community Detection in Multilayer Networks
   group: tools
