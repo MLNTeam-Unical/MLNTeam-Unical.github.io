@@ -20,6 +20,7 @@ As we venture into possibly uncharted territories, our collective goal is not on
 ## 2024 News
 
 {% capture content %} 
+- *12 Feb 2024* - Talk @[PNRR FAIR Project Workshop - GREEN-AWARE AI 2024](2024/02/12/tagarelli-FAIRws.html)
 - *17 Jan 2024* - New preprint on [LLM Agents and human personalities](2024/01/17/tagarelli-arxivMBTI.html)
 
 <!--
