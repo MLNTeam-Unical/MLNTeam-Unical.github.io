@@ -18,11 +18,26 @@
   link: https://ceur-ws.org/Vol-3594/paper5.pdf
   image: ./../images/liraiGDPR.jpg
 
+- id: "  "
+  title: "Exploring domain and task adaptation of LamBERTa models for article retrieval on the Italian Civil Code"
+  authors:
+    - Andrea Simeri
+    - Andrea Tagarelli
+  publisher: The 19th Conference on Information and Research science Connecting to Digital and Library science (IRCDL) 
+  date: '2023-04-21'
+  link: https://ceur-ws.org/Vol-3365/paper4.pdf
+  image: ./../images/AIlaw.jpg
 
+
+# arXiv 2024-2
+- id: doi:10.48550/ARXIV.2401.14524
+  image: ./../images/liraiEU2.jpg
+  date: '2024-01-25'
 
 # arXiv 2024-1
 - id: doi:10.48550/arXiv.2401.07115
   image: ./../images/mbti.jpg 
+  date: '2024-01-13'
 
   # SciRep 2023
 - id: doi:10.1038/s41598-023-48200-7

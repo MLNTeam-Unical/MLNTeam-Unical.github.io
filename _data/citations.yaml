@@ -14,16 +14,28 @@
   plugin: sources.py
   file: sources.yaml
 - id: '  '
-  title: GDPR Article Retrieval based on Domain-adaptive and Task-adaptive Legal Pre-trained
-    Language Models
+  title: Exploring domain and task adaptation of LamBERTa models for article retrieval
+    on the Italian Civil Code
   authors:
   - Andrea Simeri
   - Andrea Tagarelli
-  publisher: ACM Hypertext-2023 Workshop on 'Legal Information Retrieval meets Artificial
-    Intelligence Workshop' (LIRAI)
-  date: '2023-12-01'
-  link: https://ceur-ws.org/Vol-3594/paper5.pdf
-  image: ./../images/liraiGDPR.jpg
+  publisher: The 19th Conference on Information and Research science Connecting to
+    Digital and Library science (IRCDL)
+  date: '2023-04-21'
+  link: https://ceur-ws.org/Vol-3365/paper4.pdf
+  image: ./../images/AIlaw.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/ARXIV.2401.14524
+  title: Evaluating GPT-3.5's Awareness and Summarization Abilities for European Constitutional
+    Texts with Shared Topics
+  authors:
+  - Candida M. Greco
+  - A. Tagarelli
+  publisher: arXiv
+  date: '2024-01-25'
+  link: https://doi.org/gtm7ws
+  image: ./../images/liraiEU2.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2401.07115
@@ -34,7 +46,7 @@
   - Davide Costa
   - Andrea Tagarelli
   publisher: arXiv
-  date: '2024-01-01'
+  date: '2024-01-13'
   link: https://doi.org/gtd3x7
   image: ./../images/mbti.jpg
   plugin: sources.py
