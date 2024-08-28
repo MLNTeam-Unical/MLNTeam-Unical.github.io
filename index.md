@@ -20,8 +20,7 @@ As we venture into possibly uncharted territories, our collective goal is not on
 ## 2024 News
 
 {% capture content %} 
-- *12 Feb 2024* - Talk @[PNRR FAIR Project Workshop - GREEN-AWARE AI 2024](2024/02/12/tagarelli-FAIRws.html)
-- *17 Jan 2024* - New preprint on [LLM Agents and human personalities](2024/01/17/tagarelli-arxivMBTI.html)
+- *2-5 Sep 2024* - [Andrea T. General Chair of ASONAM-2024](2024/08/28/tagarelli-ASONAM-2024.html)
 
 <!--
 - *6 Nov 2023* - Lucio presented a [tutorial at ASONAM 2023](2023/11/06/lucio-asonam2023.html)

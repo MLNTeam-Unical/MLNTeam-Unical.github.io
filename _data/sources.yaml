@@ -1,3 +1,26 @@
+- id: doi:10.1007/s10994-024-06581-4
+  image: ./../images/default.jpg
+  date: '2024-08-12' 
+
+- id: doi:10.1007/s41109-024-00633-3
+  image: ./../images/default.jpg
+  date: '2024-07-15'
+
+- id: doi:10.1016/j.eswa.2024.123320
+  image: ./../images/default.jpg
+  date: '2024-06-08' 
+
+- id: doi:10.1145/3589334.3645646
+  image: ./../images/default.jpg
+  date: '2024-05-17' 
+
+- id: doi:10.1145/3614419.3644013
+  image: ./../images/default.jpg
+  date: '2024-05-04' 
+
+
+
+
 - id: " "
   title: "Topic Similarities in Rights and Duties across European Constitutions using Transformer-based Language Models"
   authors:

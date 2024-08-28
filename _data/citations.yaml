@@ -1,5 +1,69 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1007/s10994-024-06581-4
+  title: Neural discovery of balance-aware polarized communities
+  authors:
+  - Francesco Gullo
+  - Domenico Mandaglio
+  - Andrea Tagarelli
+  publisher: Machine Learning
+  date: '2024-08-12'
+  link: https://doi.org/gt73st
+  image: ./../images/default.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s41109-024-00633-3
+  title: 'DyHANE: dynamic heterogeneous attributed network embedding through experience
+    node replay'
+  authors:
+  - Liliana Martirano
+  - Dino Ienco
+  - Roberto Interdonato
+  - Andrea Tagarelli
+  publisher: Applied Network Science
+  date: '2024-07-15'
+  link: https://doi.org/gt73sp
+  image: ./../images/default.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.eswa.2024.123320
+  title: A meta-active learning approach exploiting instance importance
+  authors:
+  - Sergio Flesca
+  - Domenico Mandaglio
+  - Francesco Scala
+  - Andrea Tagarelli
+  publisher: Expert Systems with Applications
+  date: '2024-06-08'
+  link: https://doi.org/gt73sv
+  image: ./../images/default.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3589334.3645646
+  title: Link Prediction on Multilayer Networks through Learning of Within-Layer and
+    Across-Layer Node-Pair Structural Features and Node Embedding Similarity
+  authors:
+  - Lorenzo Zangari
+  - Domenico Mandaglio
+  - Andrea Tagarelli
+  publisher: Proceedings of the ACM Web Conference 2024
+  date: '2024-05-17'
+  link: https://doi.org/gt73sw
+  image: ./../images/default.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3614419.3644013
+  title: Polarization in Decentralized Online Social Networks
+  authors:
+  - Lucio La Cava
+  - Domenico Mandaglio
+  - Andrea Tagarelli
+  publisher: ACM Web Science Conference
+  date: '2024-05-04'
+  link: https://doi.org/gt73sx
+  image: ./../images/default.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: ' '
   title: Topic Similarities in Rights and Duties across European Constitutions using
     Transformer-based Language Models
@@ -43,7 +107,6 @@
     through Open Large Language Models
   authors:
   - Lucio La Cava
-  - Davide Costa
   - Andrea Tagarelli
   publisher: arXiv
   date: '2024-01-13'
@@ -210,7 +273,7 @@
   - Lucio La Cava
   - Domenico Mandaglio
   - Andrea Tagarelli
-  publisher: Discovery Science
+  publisher: Lecture Notes in Computer Science
   date: '2022-01-01'
   link: https://doi.org/gs35cv
   image: ./../images/fairness.jpg
@@ -249,7 +312,7 @@
   - Candida Maria Greco
   - Andrea Tagarelli
   - Ester Zumpano
-  publisher: Natural Language Processing and Information Systems
+  publisher: Lecture Notes in Computer Science
   date: '2022-01-01'
   link: https://doi.org/gs35c3
   image: ./../images/nldb22.jpg
@@ -337,7 +400,7 @@
   - Domenico Mandaglio
   - Andrea Tagarelli
   - Francesco Gullo
-  publisher: Machine Learning and Knowledge Discovery in Databases. Research Track
+  publisher: Lecture Notes in Computer Science
   date: '2021-01-01'
   link: https://doi.org/gs8dvt
   image: ./../images/CCwGWB.jpg
