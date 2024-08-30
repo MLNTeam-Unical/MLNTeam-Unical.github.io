@@ -1,3 +1,7 @@
+- id: doi:10.48550/arXiv.2407.09364
+  image: ./../images/default.jpg 
+  date: '2024-07-12'
+
 - id: doi:10.1007/s10994-024-06581-4
   image: ./../images/default.jpg
   date: '2024-08-12' 
