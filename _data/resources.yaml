@@ -1,3 +1,35 @@
+- title: NetMax - Influence Maximization in Social Networks
+  group: dataa
+  link: https://github.com/lorenzobloise/netmax
+  description: (by *Lorenzo Bloise* and *Carmelo Gugliotta*) NetMax is a Python library that provides implementation of several algorithms for the problem of Influence Maximization in Social Networks. It also addresses the problem of Competitive Influence Maximization. It works with both signed and unsigned networks, implementing progressive, semi-progressive and non-progressive diffusion models.
+  tags:
+    - influence maximization
+    - networks
+
+- title: Renewable Energy Knowledge Graph Builder
+  group: dataa
+  link: https://github.com/marcoleto01/KnowledgeGraphsProject
+  description:  (by *Francesca Daniele* and *Marco Leto*) This tool enables the construction of a knowledge graph from PDF documents, including entity and relationship extraction, advanced syntactic analysis, and the construction of graphs that can be visualized using Neo4j. The tool is customized for the topic of renewable energy, although it can be adapted to deal with any topic. 
+  tags:
+    - knowledge graphs
+    - PDF
+
+
+
+
+
+
+- title: ME2-BERT - Moral Foundation Prediction through Events and Emotions
+  group: tools
+  image: images/me2bert.png
+  link: https://github.com/lorenzozangari/ME2-BERT
+  description: ME2-BERT is a  framework for fine-tuning a pre-trained language model like BERT to the task of moral foundation prediction. ME²-BERT integrates events and emotions for learning domain-invariant morality-relevant text representations.
+  tags:
+    - LLMs
+    - text
+    - affective computing
+    - moral foundations
+
 - title: The NFT-70M Dataset
   group: data
   image: images/nft-hf.jpg
@@ -59,9 +91,6 @@
     - language models
     - law
     - citation networks
-
-
-
 
 
 - title: EMCD - A Software Package for Ensemble-based Community Detection in Multilayer Networks

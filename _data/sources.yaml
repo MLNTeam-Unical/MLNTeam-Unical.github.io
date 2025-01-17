@@ -1,3 +1,19 @@
+- id: doi:10.18653/v1/2024.findings-emnlp.881
+  image: ./../images/default.jpg
+  date: '2024-11-18' 
+
+- id: doi:10.48550/ARXIV.2409.08963
+  image: ./../images/default.jpg
+  date: '2024-10-12' 
+
+- id: doi:10.48550/ARXIV.2409.09001
+  image: ./../images/default.jpg
+  date: '2024-10-12' 
+ 
+- id: doi:10.48550/ARXIV.2409.13521
+  image: ./../images/default.jpg
+  date: '2024-10-15' 
+
 - id: doi:10.48550/arXiv.2407.09364
   image: ./../images/default.jpg 
   date: '2024-07-12'
@@ -21,7 +37,6 @@
 - id: doi:10.1145/3614419.3644013
   image: ./../images/default.jpg
   date: '2024-05-04' 
-
 
 
 

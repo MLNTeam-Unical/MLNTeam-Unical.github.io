@@ -17,6 +17,9 @@ nav:
 
 ## Datasets
 {% include list.html component="card" data="resources" filters="group: data" style="small" %}
+
+## Software tools from Alumni
+{% include list.html component="card" data="resources" filters="group: dataa" style="small" %}
  
  
  

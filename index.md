@@ -17,10 +17,11 @@ As we venture into possibly uncharted territories, our collective goal is not on
 {% include section.html %}
 
 
-## 2024 News
+## 2024- News
 
 {% capture content %} 
 - *2-5 Sep 2024* - [Andrea T. General Chair of ASONAM-2024](2024/08/28/tagarelli-ASONAM-2024.html)
+- See a selection of recent events published on [LinkedIn](https://www.linkedin.com/in/andrea-tagarelli/)
 
 <!--
 - *6 Nov 2023* - Lucio presented a [tutorial at ASONAM 2023](2023/11/06/lucio-asonam2023.html)

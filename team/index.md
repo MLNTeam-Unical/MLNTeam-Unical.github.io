@@ -17,13 +17,48 @@ Members include computer science and engineering professors, researchers, PhD st
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include list.html data="members" component="portrait" filters="role: programmer" %}
  
+
 
 
 {% include section.html %}
 ## 🎓 Alumni
 
-A selected list of recent M.Sc. Thesis works by students in Computer Engineering @DIMES, supervised by Andrea T. and other MLN Team members:
+A selected list of recent M.Sc. and B.Sc. Thesis works by students in Computer Engineering @DIMES, supervised by Andrea T. and other MLN Team members:
+
+- *Integrazione di Knowledge Graphs in Sistemi di Retrieval-Augmented Generation* \
+  F. Zumpano, A.Y. 2023-2024 \
+  Supervisor: A. Tagarelli
+
+- *Large Language Models for Logical Reasoning based on First-order Logic Translation and Symbolic Solvers* \
+  D. Mannella, A.Y. 2023-2024 \
+  Supervisor: A. Tagarelli
+
+- *Modellazione ed analisi strutturale delle relazioni di voto in blockchain-based online social media: Steemit come caso di studio* \
+  G. Centraco, A.Y. 2023-2024 \
+  Supervisors: A. Tagarelli, L. La Cava 
+
+- *A Machine-Learning Framework for the Annotation, Named Entity Recognition and Topic Extraction of Italian Law Codes* \
+  M. Lo Giudice, A.Y. 2023-2024 \
+  Supervisor: A. Tagarelli
+
+- *Graph-Based Transformer Models: Performing Machine Learning Tasks in Complex Networks* \
+  S. Raso, A.Y. 2023-2024 \
+  Supervisor: A. Tagarelli
+
+- *Progettazione e sviluppo di un framework basato su AI generativa per la generazione di massime da sentenze tributarie* \
+  M. Valerioti, A.Y. 2023-2024 \
+  Supervisor: A. Tagarelli
+
+- *Analysis of Use Policies in Mastodon Social Network* \
+  V. Altomare, A.Y. 2023-2024 \
+  Supervisor: A. Tagarelli
+
+- *Exploring the Impact of Extractive Summarization on GPT-based Abstractive Summarization* \
+  G. Simone, A.Y. 2022-2023 \
+  Supervisor: A. Tagarelli
+
 
 - *User Recommendation in Decentralized Online Social Networks* \
   S. Bria, A.Y. 2022-2023 \
