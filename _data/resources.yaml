@@ -12,7 +12,15 @@
   description:  (by *Francesca Daniele* and *Marco Leto*) This tool enables the construction of a knowledge graph from PDF documents, including entity and relationship extraction, advanced syntactic analysis, and the construction of graphs that can be visualized using Neo4j. The tool is customized for the topic of renewable energy, although it can be adapted to deal with any topic. 
   tags:
     - knowledge graphs
-    - PDF
+    - PDF extraction
+
+- title: Aspect-based Sentiment Analysis
+  group: dataa
+  link: https://github.com/3ld0rad0/ABSA_COP_based
+  description:  (by *Edoardo Misurelli*) This tool is designed to identify specific aspects within a text and assign them a sentiment polarity. These labeled text-passages are then used to fine-tune a pre-trained language model for sentiment classification.
+  tags:
+    - aspect-based sentiment prediction
+    - COP in social media
 
 
 
