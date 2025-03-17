@@ -14,7 +14,8 @@ Key areas of investigation include:
 - **Advanced Clustering Problems**: Correlation Clustering, Fairness in Clustering, Polarization, Clustering Ensemble
 - **Graph Mining and Learning**:  Node/Subgraph Classification, Link Prediction, Community Detection, Graph Simplification, Multilayer Networks, Heterogeneous Networks, Knowledge Graphs
 - **Social Media**: (Web3 and Decentralized) Online Social Networks, Influence Maximization, Information Diffusion, User Behavior Analysis, Centrality
-- **NLP and Information Retrieval**: Text Representation Learning, Semantic Search, Document Clustering and Classification, Topic Modeling, Multi-view/Multilingual Document Mining, Agents for Large Language Models, Language Psychology, Language Models and Moral Foundations
+- **AI-based NLP**: Text Representation Learning, Agents for Large Language Models, Machine-generated text detection and attribution, Language Psychology, Language Models and Moral Foundations
+- **Information Retrieval**: Semantic Search, Document Clustering and Classification, Topic Modeling, Multi-view/Multilingual Document Mining
 - **Sequential/Temporal** Data Similarity and Representation Learning
 - **Multimodal** Similarity Search, Vision-Audio-Language-Graph Representation Learning 
 

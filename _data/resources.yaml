@@ -1,5 +1,5 @@
 - title: NetMax - Influence Maximization in Social Networks
-  group: dataa
+  group: alumni
   link: https://github.com/lorenzobloise/netmax
   description: (by *Lorenzo Bloise* and *Carmelo Gugliotta*) NetMax is a Python library that provides implementation of several algorithms for the problem of Influence Maximization in Social Networks. It also addresses the problem of Competitive Influence Maximization. It works with both signed and unsigned networks, implementing progressive, semi-progressive and non-progressive diffusion models.
   tags:
@@ -7,7 +7,7 @@
     - networks
 
 - title: Renewable Energy Knowledge Graph Builder
-  group: dataa
+  group: alumni
   link: https://github.com/marcoleto01/KnowledgeGraphsProject
   description:  (by *Francesca Daniele* and *Marco Leto*) This tool enables the construction of a knowledge graph from PDF documents, including entity and relationship extraction, advanced syntactic analysis, and the construction of graphs that can be visualized using Neo4j. The tool is customized for the topic of renewable energy, although it can be adapted to deal with any topic. 
   tags:
@@ -15,7 +15,7 @@
     - PDF extraction
 
 - title: Aspect-based Sentiment Analysis
-  group: dataa
+  group: alumni
   link: https://github.com/3ld0rad0/ABSA_COP_based
   description:  (by *Edoardo Misurelli*) This tool is designed to identify specific aspects within a text and assign them a sentiment polarity. These labeled text-passages are then used to fine-tune a pre-trained language model for sentiment classification.
   tags:

@@ -49,9 +49,7 @@
   image: ./../images/default.jpg
   date: '2024-05-04' 
  
-- id: url:https://ceur-ws.org/Vol-3365/paper4.pdf
-  image: ./../images/AIlaw.jpg
-  date: '2023-04-21' 
+
  
 # arXiv 2024-2
 - id: doi:10.48550/ARXIV.2401.14524
@@ -135,8 +133,8 @@
 - id: doi:10.1145/3543507.3583520
   image: ./../images/merlin.jpg
 
-# Under review 2023
-- id: doi:10.48550/arXiv.2303.17031
+# Under review 2023 - ACM Trans 2025
+- id: doi:10.1145/3703411
   image: ./../images/visualinspirationnetw.jpg
 
 # Pattern Recognition Letters 2023
