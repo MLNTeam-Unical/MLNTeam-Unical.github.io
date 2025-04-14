@@ -1,3 +1,8 @@
+- id: doi:10.1609/aaai.v39i2.32125
+  image: ./../images/mbti.jpg 
+  date: '2025-04-11'
+
+
 - id: url:https://aclanthology.org/2025.coling-main.638
   image: ./../images/default.jpg
   date: '2025-01-25' 

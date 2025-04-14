@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1609/aaai.v39i2.32125
+  title: Open Models, Closed Minds? On Agents Capabilities in Mimicking Human Personalities
+    through Open Large Language Models
+  authors:
+  - Lucio La Cava
+  - Andrea Tagarelli
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2025-04-11'
+  link: https://doi.org/g9fgpb
+  image: ./../images/mbti.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: url:https://aclanthology.org/2025.coling-main.638
   title: 'ME2-BERT: Are Events and Emotions what you need for Moral Foundation Prediction?'
   authors:
