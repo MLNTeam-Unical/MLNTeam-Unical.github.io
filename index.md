@@ -20,6 +20,7 @@ As we venture into possibly uncharted territories, our collective goal is not on
 ## 2024- News
 
 {% capture content %} 
+- *14 Apr 2025* - [OpenTuringBench released on Hugging Face](https://huggingface.co/datasets/MLNTeam-Unical/OpenTuringBench)
 - *20-21 Mar 2025* - [PhD Course on LLMs](2025/03/10/tagarelli-PhDCourse.html)
 - *2-5 Sep 2024* - [Andrea T. General Chair of ASONAM-2024](2024/08/28/tagarelli-ASONAM-2024.html)
 - See a selection of events published on [LinkedIn](https://www.linkedin.com/in/andrea-tagarelli/)

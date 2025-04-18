@@ -24,7 +24,16 @@
 
 
 
-
+- title: OpenTuringBench - An Open-Model-based Benchmark and Framework for Machine-Generated Text Detection and Attribution 
+  group: data, tools
+  image: images/otb.jpg
+  link: https://huggingface.co/datasets/MLNTeam-Unical/OpenTuringBench
+  description: A new benchmark based on Open LLMs, designed to train and evaluate machine-generated text detectors on the Turing Test and Authorship Attribution problems. OpenTuringBench features a number of challenging evaluation tasks, including human/machine-manipulated texts, out-of-domain texts, and texts from previously unseen models.
+  tags:
+    - LLMs
+    - Turing Test
+    - Authorship Attribution
+    - Generative AI 
 
 
 - title: ME2-BERT - Moral Foundation Prediction through Events and Emotions
