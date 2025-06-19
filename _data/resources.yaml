@@ -23,14 +23,28 @@
     - COP in social media
 
 
+- title: PersonaGen - A Persona-Driven Open-Ended Machine-Generated Text Dataset 
+  group: data
+  image: images/PersonaGen.png
+  link: https://huggingface.co/datasets/MLNTeam-Unical/PersonaGen
+  description: A new dataset of 1.44 million persona-driven machine-generated texts produced by Open LLMs. PersonaGen is specifically designed to investigate how synthetic persona profiles affect, guide, or manifest in machine-generated texts, and supports multiple research tasks, such as machine-generated text attribution, persona category detection, and persona profile identification, thus providing a valuable resource for studying LLM controllability and role-playing behavior, as well as the impact of persona profile conditioning in downstream tasks.
+  tags:
+    - LLMs
+    - synthetic personas
+    - machine-generated text
+    - role playing
+    - persona categorization
+    - persona inference
+    - Generative AI 
 
 - title: OpenTuringBench - An Open-Model-based Benchmark and Framework for Machine-Generated Text Detection and Attribution 
   group: data, tools
-  image: images/otb.jpg
+  image: images/OTB.png
   link: https://huggingface.co/datasets/MLNTeam-Unical/OpenTuringBench
   description: A new benchmark based on Open LLMs, designed to train and evaluate machine-generated text detectors on the Turing Test and Authorship Attribution problems. OpenTuringBench features a number of challenging evaluation tasks, including human/machine-manipulated texts, out-of-domain texts, and texts from previously unseen models.
   tags:
     - LLMs
+    - machine-generated text
     - Turing Test
     - Authorship Attribution
     - Generative AI 
