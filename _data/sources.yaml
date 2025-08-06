@@ -1,3 +1,9 @@
+
+- id: doi:10.18653/v1/2025.acl-long.883
+  image: ./../images/default.jpg 
+  date: '2025-07-30'
+
+
 - id: doi:10.1609/aaai.v39i2.32125
   image: ./../images/mbti.jpg 
   date: '2025-04-11'

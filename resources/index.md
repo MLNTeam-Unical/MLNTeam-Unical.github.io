@@ -2,7 +2,7 @@
 title: Resources
 nav:
   order: 3
-  tooltip: Software, data, and more
+  tooltip: Software tools and data resources
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Resources
@@ -11,7 +11,11 @@ nav:
 {% include tags.html tags="publication, resource, website" %}
 {% include search-info.html %}
 {% include section.html %}
- 
+
+<span style="font-size: 22px;">
+[Software tools](https://mlnteam-unical.github.io/resources/#software-tools)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Datasets](https://mlnteam-unical.github.io/resources/#datasets)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Software tools from Alumni](https://mlnteam-unical.github.io/resources/#software-tools-from-alumni)
+</span>
+
 ## Software tools
 {% include list.html component="card" data="resources" filters="group: tools" style="small" %}
 
