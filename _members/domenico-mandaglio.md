@@ -1,8 +1,7 @@
 ---
 name: Domenico Mandaglio
-image: images/mandaglio.jpg
-description: Researcher (RTDA)
-role: postdoc
+image: images/mandaglio.jpg 
+role: assprof
 group: alum
 links:
   email: d.mandaglio@dimes.unical.it

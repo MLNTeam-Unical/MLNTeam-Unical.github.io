@@ -1,8 +1,7 @@
 ---
 name: Lucio La Cava
-image: images/lucio.png
-description: Researcher (RTDA)
-role: postdoc
+image: images/lucio.png 
+role: assprof
 group: alum
 links:
   website: https://luciolacava.me/
