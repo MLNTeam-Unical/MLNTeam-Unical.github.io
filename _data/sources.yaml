@@ -1,13 +1,35 @@
+- id: doi:10.48550/arXiv.2509.23982
+  image: ./../images/default.jpg 
+  date: '2025-09-28'
+
+- id: doi:10.48550/arXiv.2508.01656
+  image: ./../images/default.jpg 
+  date: '2025-08-3'
 
 - id: doi:10.18653/v1/2025.acl-long.883
   image: ./../images/default.jpg 
   date: '2025-07-30'
 
+- id: doi:10.1016/j.osnem.2025.100319
+  image: ./../images/default.jpg 
+  date: '2025-05-30'
+
+
+- id: doi:10.1016/j.pmcj.2025.102077
+  image: ./../images/default.jpg 
+  date: '2025-05-30'
+
+- id: doi:10.48550/arXiv.2504.11369
+  image: ./../images/mbti.jpg 
+  date: '2025-04-15' 
 
 - id: doi:10.1609/aaai.v39i2.32125
   image: ./../images/mbti.jpg 
   date: '2025-04-11'
 
+- id: doi:10.1007/s00146-025-02225-w
+  image: ./../images/default.jpg 
+  date: '2025-03-24'
 
 - id: url:https://aclanthology.org/2025.coling-main.638
   image: ./../images/default.jpg

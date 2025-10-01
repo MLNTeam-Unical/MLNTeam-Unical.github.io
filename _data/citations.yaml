@@ -1,5 +1,31 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.48550/arXiv.2509.23982
+  title: Toward Preference-aligned Large Language Models via Residual-based Model
+    Steering
+  authors:
+  - Lucio La Cava
+  - Andrea Tagarelli
+  publisher: arXiv
+  date: '2025-09-28'
+  link: https://doi.org/g95h56
+  image: ./../images/default.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2508.01656
+  title: Authorship Attribution in Multilingual Machine-Generated Texts
+  authors:
+  - Lucio La Cava
+  - Dominik Macko
+  - "R\xF3bert M\xF3ro"
+  - Ivan Srba
+  - Andrea Tagarelli
+  publisher: arXiv
+  date: '2025-08-03'
+  link: https://doi.org/g95h57
+  image: ./../images/default.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.18653/v1/2025.acl-long.883
   title: "Exploring LLMs\u2019 Ability to Spontaneously and Conditionally Modify Moral\
     \ Expressions through Text Manipulation"
@@ -15,6 +41,43 @@
   image: ./../images/default.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.osnem.2025.100319
+  title: 'Safeguarding Decentralized Social Media: LLM Agents for Automating Community
+    Rule Compliance'
+  authors:
+  - Lucio La Cava
+  - Andrea Tagarelli
+  publisher: Online Social Networks and Media
+  date: '2025-05-30'
+  link: https://doi.org/g95h58
+  image: ./../images/default.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.pmcj.2025.102077
+  title: Unveiling user dynamics in the evolving social debate on climate crisis during
+    the conferences of the parties
+  authors:
+  - Liliana Martirano
+  - Lucio La Cava
+  - Andrea Tagarelli
+  publisher: Pervasive and Mobile Computing
+  date: '2025-05-30'
+  link: https://doi.org/g95h59
+  image: ./../images/default.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2504.11369
+  title: 'OpenTuringBench: An Open-Model-based Benchmark and Framework for Machine-Generated
+    Text Detection and Attribution'
+  authors:
+  - Lucio La Cava
+  - Andrea Tagarelli
+  publisher: arXiv
+  date: '2025-04-15'
+  link: https://doi.org/g95h6b
+  image: ./../images/mbti.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1609/aaai.v39i2.32125
   title: Open Models, Closed Minds? On Agents Capabilities in Mimicking Human Personalities
     through Open Large Language Models
@@ -25,6 +88,20 @@
   date: '2025-04-11'
   link: https://doi.org/g9fgpb
   image: ./../images/mbti.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00146-025-02225-w
+  title: 'A survey on moral foundation theory and pre-trained language models: current
+    advances and challenges'
+  authors:
+  - Lorenzo Zangari
+  - Candida Maria Greco
+  - Davide Picca
+  - Andrea Tagarelli
+  publisher: AI &amp; SOCIETY
+  date: '2025-03-24'
+  link: https://doi.org/g95h6c
+  image: ./../images/default.jpg
   plugin: sources.py
   file: sources.yaml
 - id: url:https://aclanthology.org/2025.coling-main.638
