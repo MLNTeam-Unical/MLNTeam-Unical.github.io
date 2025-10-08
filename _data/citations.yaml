@@ -183,16 +183,16 @@
   image: ./../images/default.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2407.09364
+- id: doi:10.3233/FAIA240862
   title: Is Contrasting All You Need? Contrastive Learning for the Detection and Attribution
     of AI-generated Text
   authors:
   - Lucio La Cava
   - Davide Costa
   - Andrea Tagarelli
-  publisher: arXiv
-  date: '2024-07-12'
-  link: https://doi.org/gt8fj9
+  publisher: Frontiers in Artificial Intelligence and Applications
+  date: '2024-10-12'
+  link: https://doi.org/g954v8
   image: ./../images/default.jpg
   plugin: sources.py
   file: sources.yaml

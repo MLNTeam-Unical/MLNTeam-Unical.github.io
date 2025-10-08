@@ -58,9 +58,9 @@
   image: ./../images/default.jpg
   date: '2024-10-15' 
 
-- id: doi:10.48550/arXiv.2407.09364
+- id: doi:10.3233/FAIA240862
   image: ./../images/default.jpg 
-  date: '2024-07-12'
+  date: '2024-10-12'
 
 - id: doi:10.1007/s10994-024-06581-4
   image: ./../images/default.jpg
