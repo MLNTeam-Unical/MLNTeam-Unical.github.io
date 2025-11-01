@@ -10,7 +10,7 @@ links:
   website: https://people.dimes.unical.it/andreatagarelli
 ---
 
-Andrea Tagarelli is an associate professor of computer engineering at the University of Calabria, Rende, Italy, 
+Andrea Tagarelli is full professor of computer engineering at the University of Calabria, Rende, Italy, 
 DIMES Dept. Head’s Delegate for Technology Transfer of research results, and 
 Scientific Coordinator of the Artificial Intelligence and Data Science Lab.
 
