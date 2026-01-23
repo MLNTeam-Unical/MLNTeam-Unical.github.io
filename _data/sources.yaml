@@ -1,3 +1,31 @@
+
+- id: doi:10.1016/j.ins.2026.123106
+  image: ./../images/default.jpg 
+  date: '2026-01-23'
+
+- id: doi:10.1145/3779064
+  image: ./../images/default.jpg 
+  date: '2026-01-13'
+
+
+
+- id: doi:10.18653/v1/2025.emnlp-main.1354
+  image: ./../images/default.jpg 
+  date: '2025-11-23'
+
+- id: doi:10.1145/3746252.3761611
+  image: ./../images/default.jpg 
+  date: '2025-11-20'
+
+- id: doi:10.1145/3746252.3761618
+  image: ./../images/default.jpg 
+  date: '2025-11-20'
+
+- id: doi:10.48550/arXiv.2510.07226
+  image: ./../images/default.jpg 
+  date: '2025-10-08'
+
+
 - id: doi:10.48550/arXiv.2509.23982
   image: ./../images/default.jpg 
   date: '2025-09-28'

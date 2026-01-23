@@ -1,5 +1,85 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.ins.2026.123106
+  title: Heuristic-informed mixture of experts for link prediction in multilayer networks
+  authors:
+  - Lucio La Cava
+  - Domenico Mandaglio
+  - Lorenzo Zangari
+  - Andrea Tagarelli
+  publisher: Information Sciences
+  date: '2026-01-23'
+  link: https://doi.org/hbk6kj
+  image: ./../images/default.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3779064
+  title: 'Polarized Communities Meet Densest Subgraph: Efficient and Effective Polarization
+    Detection in Signed Networks'
+  authors:
+  - Francesco Gullo
+  - Domenico Mandaglio
+  - Andrea Tagarelli
+  publisher: ACM Transactions on Knowledge Discovery from Data
+  date: '2026-01-13'
+  link: https://doi.org/hbk6kk
+  image: ./../images/default.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.18653/v1/2025.emnlp-main.1354
+  title: 'OpenTuringBench: An Open-Model-based Benchmark and Framework for Machine-Generated
+    Text Detection and Attribution'
+  authors:
+  - Lucio La Cava
+  - Andrea Tagarelli
+  publisher: Proceedings of the 2025 Conference on Empirical Methods in Natural Language
+    Processing
+  date: '2025-11-23'
+  link: https://doi.org/hbk6km
+  image: ./../images/default.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3746252.3761611
+  title: 'PersonaGen: A Persona-Driven Open-Ended Machine-Generated Text Dataset'
+  authors:
+  - Carmelo Gugliotta
+  - Lucio La Cava
+  - Andrea Tagarelli
+  publisher: Proceedings of the 34th ACM International Conference on Information and
+    Knowledge Management
+  date: '2025-11-20'
+  link: https://doi.org/hbk6kq
+  image: ./../images/default.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3746252.3761618
+  title: 'E2MoCase: A Dataset for Emotional, Event and Moral Observations in News
+    Articles on High-impact Legal Cases'
+  authors:
+  - Candida M. Greco
+  - Lorenzo Zangari
+  - Davide Picca
+  - Andrea Tagarelli
+  publisher: Proceedings of the 34th ACM International Conference on Information and
+    Knowledge Management
+  date: '2025-11-20'
+  link: https://doi.org/hbk6kr
+  image: ./../images/default.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2510.07226
+  title: Machines in the Crowd? Measuring the Footprint of Machine-Generated Text
+    on Reddit
+  authors:
+  - Lucio La Cava
+  - Luca Maria Aiello
+  - Andrea Tagarelli
+  publisher: arXiv
+  date: '2025-10-08'
+  link: https://doi.org/hbk6ks
+  image: ./../images/default.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.48550/arXiv.2509.23982
   title: Toward Preference-aligned Large Language Models via Residual-based Model
     Steering
