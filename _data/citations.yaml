@@ -1,5 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.48550/arXiv.2601.22396
+  title: 'Culturally Grounded Personas in Large Language Models: Characterization
+    and Alignment with Socio-Psychological Value Frameworks'
+  authors:
+  - Candida M. Greco
+  - Lucio La Cava
+  - Andrea Tagarelli
+  publisher: arXiv
+  date: '2026-02-02'
+  link: https://doi.org/hbndc6
+  image: ./../images/default.jpg
+  description: Despite the growing utility of Large Language Models (LLMs) for simulating
+    human behavior, the extent to which these synthetic personas accurately reflect
+    world and moral value systems across different cultural conditionings remains
+    uncertain. This paper investigates the alignment of synthetic, culturally-grounded
+    personas with established frameworks, specifically the World Values Survey (WVS),
+    the Inglehart-Welzel Cultural Map, and Moral Foundations Theory. We conceptualize
+    and produce LLM-generated personas based on a set of interpretable WVS-derived
+    variables, and we examine the generated personas through three complementary lenses
+    - positioning on the Inglehart-Welzel map, which unveils their interpretation
+    reflecting stable differences across cultural conditionings; demographic-level
+    consistency with the World Values Survey, where response distributions broadly
+    track human group patterns; and moral profiles derived from a Moral Foundations
+    questionnaire, which we analyze through a culture-to-morality mapping to characterize
+    how moral responses vary across different cultural configurations. Our approach
+    of culturally-grounded persona generation and analysis enables evaluation of cross-cultural
+    structure and moral variation.
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.ins.2026.123106
   title: Heuristic-informed mixture of experts for link prediction in multilayer networks
   authors:
