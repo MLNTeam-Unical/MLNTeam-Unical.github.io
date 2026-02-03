@@ -6,6 +6,13 @@
 
 
 
+- id: doi:10.1007/s11633-025-1607-8
+  image: ./../images/default.jpg 
+  date: '2026-01-25'
+  description: Transformers are groundbreaking neural network architectures that have revolutionized natural language processing and have been adopted across a wide range of domains beyond text. Their ability to effectively handle sequential data has sparked growing interest in their application to recommender systems, which often involve sequential user-item interactions and contextual information that can naturally be represented as graphs. Thanks to their strength in capturing complex dependencies and patterns, transformers offer promising capabilities for enhancing recommender systems built on graph structures. In this survey, we present the first systematic overview of recent advances in graph-based recommender systems that leverage transformers. We provide a formal definition of graph-transformer-based recommender systems, propose a comprehensive taxonomy of existing approaches, and organize the relevant literature accordingly. Finally, we discuss current limitations and outline open challenges, pointing to directions for future research and development.
+
+
+
 - id: doi:10.1016/j.ins.2026.123106
   image: ./../images/default.jpg 
   date: '2026-01-23'
