@@ -27,7 +27,7 @@
   group: data
   image: images/moraltextmanipulation.png
   link: https://huggingface.co/datasets/MLNTeam-Unical/MoralTextManipulation
-  description: A dataset  of morally-annotated textual resources before and after receiving LLM-based manipulation. This is conceived to explore the intrinsic ability of LLMs to spontaneously or conditionally alter the expressions of moral dimensions in a human-written text after revision, rewriting, or continuation of the original text. 
+  description: A dataset  of morally-annotated textual resources before and after receiving LLM-based manipulation. This is conceived to explore the intrinsic ability of LLMs to spontaneously or conditionally alter the expressions of moral dimensions in a human-written text after revision, rewriting, or continuation of the original text. [Download here.](https://huggingface.co/datasets/MLNTeam-Unical/MoralTextManipulation)
   tags:
     - LLMs 
     - machine-generated text
@@ -40,7 +40,7 @@
   group: data
   image: images/PersonaGen.png
   link: https://huggingface.co/datasets/MLNTeam-Unical/PersonaGen
-  description: A new dataset of 1.44 million persona-driven machine-generated texts produced by Open LLMs. PersonaGen is specifically designed to investigate how synthetic persona profiles affect, guide, or manifest in machine-generated texts, and supports multiple research tasks, such as machine-generated text attribution, persona category detection, and persona profile identification, thus providing a valuable resource for studying LLM controllability and role-playing behavior, as well as the impact of persona profile conditioning in downstream tasks.
+  description: A new dataset of 1.44 million persona-driven machine-generated texts produced by Open LLMs. PersonaGen is specifically designed to investigate how synthetic persona profiles affect, guide, or manifest in machine-generated texts, and supports multiple research tasks, such as machine-generated text attribution, persona category detection, and persona profile identification, thus providing a valuable resource for studying LLM controllability and role-playing behavior, as well as the impact of persona profile conditioning in downstream tasks. [Download here.](https://huggingface.co/datasets/MLNTeam-Unical/PersonaGen)
   tags:
     - LLMs
     - synthetic personas
@@ -51,10 +51,10 @@
     - Generative AI 
 
 - title: OpenTuringBench - An Open-Model-based Benchmark and Framework for Machine-Generated Text Detection and Attribution 
-  group: data, tools
+  group: data, app
   image: images/OTB.png
   link: https://huggingface.co/datasets/MLNTeam-Unical/OpenTuringBench
-  description: A new benchmark based on Open LLMs, designed to train and evaluate machine-generated text detectors on the Turing Test and Authorship Attribution problems. OpenTuringBench features a number of challenging evaluation tasks, including human/machine-manipulated texts, out-of-domain texts, and texts from previously unseen models.
+  description: A new benchmark based on Open LLMs, designed to train and evaluate machine-generated text detectors on the Turing Test and Authorship Attribution problems. OpenTuringBench features a number of challenging evaluation tasks, including human/machine-manipulated texts, out-of-domain texts, and texts from previously unseen models. [Download here.](https://huggingface.co/datasets/MLNTeam-Unical/OpenTuringBench)
   tags:
     - LLMs
     - machine-generated text
@@ -63,10 +63,10 @@
     - Generative AI  
 
 - title: ME2-BERT - Moral Foundation Prediction through Events and Emotions
-  group: tools
+  group: app
   image: images/me2bert.png
   link: https://github.com/MLNTeam-Unical/ME2-BERT
-  description: ME2-BERT is a  framework for fine-tuning a pre-trained language model like BERT to the task of moral foundation prediction. ME²-BERT integrates events and emotions for learning domain-invariant morality-relevant text representations.
+  description: ME2-BERT is a  framework for fine-tuning a pre-trained language model like BERT to the task of moral foundation prediction. ME²-BERT integrates events and emotions for learning domain-invariant morality-relevant text representations. [Download here.](https://github.com/MLNTeam-Unical/ME2-BERT)
   tags:
     - LLMs
     - text
@@ -77,7 +77,7 @@
   group: data
   image: images/nft-hf.jpg
   link: https://huggingface.co/datasets/MLNTeam-Unical/NFT-70M_transactions
-  description: The NFT-70M_transactions dataset is the largest and most up-to-date collection of Non-Fungible Tokens (NFT) transactions between 2021 and 2023 sourced from OpenSea, the leading trading platform in the Web3 ecosystem.
+  description: The NFT-70M_transactions dataset is the largest and most up-to-date collection of Non-Fungible Tokens (NFT) transactions between 2021 and 2023 sourced from OpenSea, the leading trading platform in the Web3 ecosystem.  [Download here.](https://huggingface.co/datasets/MLNTeam-Unical/NFT-70M_transactions)
   tags:
     - NFT
     - images
@@ -85,7 +85,7 @@
     - Web3
 
 - title: SONAR - A Web-based tool for multi-modal exploration of Non-Fungible Token Inspiration Networks
-  group: tools
+  group: app
   image: images/Gui_3.png
   link: https://dl.acm.org/doi/10.1145/3539618.3591821
   description: SONAR is conceived to support both creators and traders in the Web3 through an interactive visualization of inspiration driven connections between NFTs, at both individual level and collection level. [Demo video here.](https://youtu.be/kj1UOIXE9no)
@@ -96,10 +96,10 @@
     - Web3
 
 - title: MoE-ML-LP - Heuristic-informed Mixture of Experts for Link Prediction in Multilayer Networks
-  group: tools
+  group: app
   image: images/moe-ml-lp.jpg 
   link: https://github.com/MLNTeam-Unical/MoE-ML-LinkPrediction
-  description: The first Mixture-of-Experts (MoE) framework specifically designed for multilayer link prediction. Building on top of multilayer heuristics for link prediction, MoE-ML-LP synthesizes the decisions taken by diverse experts, resulting in significantly enhanced predictive capabilities. [Download here.](mailto:andrea.tagarelli@unical.it)
+  description: The first Mixture-of-Experts (MoE) framework specifically designed for multilayer link prediction. Building on top of multilayer heuristics for link prediction, MoE-ML-LP synthesizes the decisions taken by diverse experts, resulting in significantly enhanced predictive capabilities. [Download here.](https://github.com/MLNTeam-Unical/MoE-ML-LinkPrediction)
   tags:
     - graph representation learning
     - multilayer networks
@@ -107,27 +107,27 @@
     - Mixture of Experts    
 
 - title: ML-Link - Link Prediction on Multilayer Networks through Learning of Within-Layer and Across-Layer Node-Pair Structural Features and Node Embedding Similarity
-  group: tools
+  group: app
   image: images/mllink.png
   link: https://github.com/MLNTeam-Unical/ML-Link
-  description: A graph learning framework for link prediction on (attributed) multilayer networks, which originally combines (i) pairwise similarities of multilayer node embeddings learned by a GNN, and (ii) node-pair structural features learned from   within-/across-layer link information based on overlapping multilayer neighborhoods. [Download here.](https://github.com/lorenzozangari/ML-Link)
+  description: A graph learning framework for link prediction on (attributed) multilayer networks, which originally combines (i) pairwise similarities of multilayer node embeddings learned by a GNN, and (ii) node-pair structural features learned from   within-/across-layer link information based on overlapping multilayer neighborhoods. [Download here.](https://github.com/MLNTeam-Unical/ML-Link)
   tags:
     - graph representation learning
     - multilayer networks
     - link prediction
 
 - title: Co-MLHAN -  Contrastive Learning for Multilayer Heterogeneous Attributed Networks
-  group: tools
+  group: app
   image: images/comlhan.png
   link: https://github.com/MLNTeam-Unical/Co-MLHAN
-  description: A self-supervised graph representation learning approach based on cross-view contrastive learning conceived for multilayer heterogeneous attributed networks. [Download here.](https://github.com/lorenzozangari/Co-MLHAN)
+  description: A self-supervised graph representation learning approach based on cross-view contrastive learning conceived for multilayer heterogeneous attributed networks. [Download here.](https://github.com/MLNTeam-Unical/Co-MLHAN)
   tags:
     - graph representation learning
     - multilayer networks
     - heterogeneous networks
 
 - title: ML-GNN - Graph convolutional and attention models for Entity Classification in Multilayer Networks
-  group: tools
+  group: app
   image: images/mlgnn.png
   link: https://github.com/andreatagarelli/ML_GNN
   description: A GNN framework for representation learning and semi-supervised classification in multilayer networks with attributed entities,  arbitrary number of layers and intra-/inter-layer connections between nodes. [Download here.](https://github.com/andreatagarelli/ML_GNN)
@@ -137,7 +137,7 @@
 
 
 - title: LawNet-Viz - A Web-based tool for the modeling, analysis and visualization of Law Reference Networks
-  group: tools
+  group: app
   image: images/lawnetviz.png
   link: https://dl.acm.org/doi/10.1145/3477495.3531668
   description: LawNetViz, a web-based tool designed to support legal research tasks and help legal professionals as well as laymen visually exploring the article connections built upon the explicit law references detected in the article contents. [Demo video here.](https://youtu.be/yQGe8Q12wQU)
@@ -148,7 +148,7 @@
 
 
 - title: EMCD - A Software Package for Ensemble-based Community Detection in Multilayer Networks
-  group: tools
+  group: app
   image: images/emcd.png
   link: resources/EMCD.zip
   description: EMCD is a software system for finding a community structure in a multilayer network by using an ensemble-based approach. [Download here.](EMCD.zip)
@@ -157,7 +157,7 @@
     - multilayer networks
 
 - title: ML-LCD - A Software Package for Local Community Detection in Multilayer Networks
-  group: tools
+  group: app
   image: images/ml-lcd.png
   link: resources/ML-LCD.zip
   description: ML-LCD is a software system for finding a community that is specific to a query node and relies on limited information about the network structure. [Download here.](ML-LCD.zip)
