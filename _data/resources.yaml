@@ -60,13 +60,12 @@
     - machine-generated text
     - Turing Test
     - Authorship Attribution
-    - Generative AI 
-
+    - Generative AI  
 
 - title: ME2-BERT - Moral Foundation Prediction through Events and Emotions
   group: tools
   image: images/me2bert.png
-  link: https://github.com/lorenzozangari/ME2-BERT
+  link: https://github.com/MLNTeam-Unical/ME2-BERT
   description: ME2-BERT is a  framework for fine-tuning a pre-trained language model like BERT to the task of moral foundation prediction. ME²-BERT integrates events and emotions for learning domain-invariant morality-relevant text representations.
   tags:
     - LLMs
@@ -99,6 +98,7 @@
 - title: MoE-ML-LP - Heuristic-informed Mixture of Experts for Link Prediction in Multilayer Networks
   group: tools
   image: images/moe-ml-lp.jpg 
+  link: https://github.com/MLNTeam-Unical/MoE-ML-LinkPrediction
   description: The first Mixture-of-Experts (MoE) framework specifically designed for multilayer link prediction. Building on top of multilayer heuristics for link prediction, MoE-ML-LP synthesizes the decisions taken by diverse experts, resulting in significantly enhanced predictive capabilities. [Download here.](mailto:andrea.tagarelli@unical.it)
   tags:
     - graph representation learning
@@ -109,7 +109,7 @@
 - title: ML-Link - Link Prediction on Multilayer Networks through Learning of Within-Layer and Across-Layer Node-Pair Structural Features and Node Embedding Similarity
   group: tools
   image: images/mllink.png
-  link: https://github.com/lorenzozangari/ML-Link
+  link: https://github.com/MLNTeam-Unical/ML-Link
   description: A graph learning framework for link prediction on (attributed) multilayer networks, which originally combines (i) pairwise similarities of multilayer node embeddings learned by a GNN, and (ii) node-pair structural features learned from   within-/across-layer link information based on overlapping multilayer neighborhoods. [Download here.](https://github.com/lorenzozangari/ML-Link)
   tags:
     - graph representation learning
@@ -119,7 +119,7 @@
 - title: Co-MLHAN -  Contrastive Learning for Multilayer Heterogeneous Attributed Networks
   group: tools
   image: images/comlhan.png
-  link: https://github.com/lorenzozangari/Co-MLHAN
+  link: https://github.com/MLNTeam-Unical/Co-MLHAN
   description: A self-supervised graph representation learning approach based on cross-view contrastive learning conceived for multilayer heterogeneous attributed networks. [Download here.](https://github.com/lorenzozangari/Co-MLHAN)
   tags:
     - graph representation learning
