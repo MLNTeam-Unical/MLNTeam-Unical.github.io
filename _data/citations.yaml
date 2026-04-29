@@ -1,5 +1,33 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.48550/arXiv.2604.25860
+  title: 'Luminol-AIDetect: Fast Zero-shot Machine-Generated Text Detection based
+    on Perplexity under Text Shuffling'
+  authors:
+  - Lucio La Cava
+  - Andrea Tagarelli
+  publisher: arXiv
+  date: '2026-04-29'
+  link: https://doi.org/hbzr9n
+  image: ./../images/default.jpg
+  description: Machine-generated text (MGT) detection requires identifying structurally
+    invariant signals across generation models, rather than relying on model-specific
+    fingerprints. In this respect, we hypothesize that while large language models
+    excel at local semantic consistency, their autoregressive nature results in a
+    specific kind of structural fragility compared to human writing. We propose Luminol-AIDetect,
+    a novel, zero-shot statistical approach that exposes this fragility through coherence
+    disruption. By applying a simple randomized text-shuffling procedure, we demonstrate
+    that the resulting shift in perplexity serves as a principled, model-agnostic
+    discriminant, as MGT displays a characteristic dispersion in perplexity-under-shuffling
+    that differs markedly from the more stable structural variability of human-written
+    text. Luminol-AIDetect leverages this distinction to inform its decision process,
+    where a handful of perplexity-based scalar features are extracted from an input
+    text and its shuffled version, then detection is performed via density estimation
+    and ensemble-based prediction. Evaluated across 8 content domains, 11 adversarial
+    attack types, and 18 languages, Luminol-AIDetect demonstrates state-of-the-art
+    performance, with gains up to 17x lower FPR while being cheaper than prior methods.
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.48550/arXiv.2601.22396
   title: 'Culturally Grounded Personas in Large Language Models: Characterization
     and Alignment with Socio-Psychological Value Frameworks'

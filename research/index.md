@@ -11,7 +11,7 @@ Our research endeavors span a diverse array of topics, primarily focusing on the
 
 Key areas of investigation can be summarized in the following categories, here presented in no particular order: 
 
-- **Natural Language Processing and AI for Text**: Text Representation Learning, Semantic Search, Affective Computing, Document Clustering, Topic Modeling, Multilingual/multi-view text mining, Machine Psychology, Modeling of AI Personality Traits, Human-agent Interaction and Emergent Behaviors in LLMs, Language models for specialized domains (e.g., law)   
+- **Natural Language Processing and AI for Text**: Text Representation Learning, Semantic Search, Affective Computing, Document Clustering, Topic Modeling, Multilingual/multi-view text mining, Machine Psychology, Modeling of AI Personality Traits, Machine-Generated Text Detection and Authorship Attribution, Human-agent Interaction and Emergent Behaviors in LLMs, Language models for specialized domains (e.g., law)   
 - **Social Media and Network Science**: Modeling and analysis of Decentralized Online Social Networks (e.g., Fediverse), Influence Maximization and Information Diffusion, User Behavior Analysis (both active and lurking users), Content Compliance Checking
 - **Advanced Clustering and Learning Problems**: Correlation Clustering, Ensemble Clustering, Fair Clustering, Polarization Detection, Clustering in High-Dimensional and Multi-View Data
 - **Graph Mining and Representation Learning**: Entity/Node Classification, Link Prediction and graph-based Recommendation, Community Detection and Evolution, 
