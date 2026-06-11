@@ -23,6 +23,22 @@
     - COP in social media
 
 
+
+
+
+- title: Authorship Attribution in Multilingual Machine-Generated Texts 
+  group: data, app
+  image: images/OTB.png
+  link: https://github.com/MLNTeam-Unical/Multilingual-MGT-AA
+  description: Resources for the ACL-26 paper on Authorship Attribution in Multilingual Machine-Generated Texts. [Download here.](https://github.com/MLNTeam-Unical/Multilingual-MGT-AA)
+  tags:
+    - LLMs
+    - machine-generated text
+    - multilingual text
+    - Authorship Attribution
+    - Generative AI  
+
+
 - title: MoralTextManipulation - Exploring LLMs’ Ability to Spontaneously and Conditionally Modify Moral Expressions through Text Manipulation 
   group: data
   image: images/moraltextmanipulation.png
