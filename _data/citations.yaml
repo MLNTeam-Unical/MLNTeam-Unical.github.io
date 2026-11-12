@@ -39,7 +39,7 @@
   date: '2026-09-28'
   link: https://doi.org/hcsc3c
   image: ./../images/default.jpg
-  description: Evaluations of Large Language Models (LLMs) morality typically consider
+  description: Evaluations of Large Language Models (LLMs)  morality typically consider
     decisions in isolation, thus overlooking whether an individual's unrelated prior
     conduct influences the model's subsequent choices. This leaves open the question
     of whether, and to what extent, moral history shapes LLM decisional behaviors.
